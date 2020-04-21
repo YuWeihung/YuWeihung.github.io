@@ -6,18 +6,18 @@
     <description>Recent content in Posts on Yu Weihong&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2020 16:22:04 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 21:49:37 +0800</lastBuildDate>
     
 	<atom:link href="https://yuweihung.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>https://yuweihung.com/post/hello/</link>
-      <pubDate>Mon, 20 Apr 2020 16:22:04 +0800</pubDate>
+      <title>Windows 7 安装及更新注意事项</title>
+      <link>https://yuweihung.com/post/install-win7/</link>
+      <pubDate>Tue, 21 Apr 2020 21:49:37 +0800</pubDate>
       
-      <guid>https://yuweihung.com/post/hello/</guid>
-      <description>Hello World. $$e^{x^2} \neq {e^x}^2$$ $$\oint$$ $$\iint$$ $$\iiint$$ $$f(x)=\frac{1}{\sqrt{2\pi}\sigma}e^\frac{(x-\mu)^2}{2\sigma^2}$$</description>
+      <guid>https://yuweihung.com/post/install-win7/</guid>
+      <description>&lt;p&gt;由于一些软件不想安装在实体机中污染环境以及避免一些兼容性问题，在系统中安装一个 Windows 的虚拟机还是有必要的。不过，在安装 Win 7 系统后的更新中可能会遇到一些问题，在此做一个记录，希望能够帮助到后来者。&lt;/p&gt;</description>
     </item>
     
   </channel>
