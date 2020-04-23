@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yu Weihong&#39;s Blog</title>
-    <link>https://yuweihung.com/post/</link>
-    <description>Recent content in Posts on Yu Weihong&#39;s Blog</description>
+    <title>应用软件 on Yu Weihong&#39;s Blog</title>
+    <link>https://yuweihung.com/tags/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/</link>
+    <description>Recent content in 应用软件 on Yu Weihong&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 23 Apr 2020 11:09:19 +0800</lastBuildDate>
     
-	<atom:link href="https://yuweihung.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuweihung.com/tags/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://yuweihung.com/post/anaconda-channel/</guid>
       <description>&lt;p&gt;相信只要是写过 Python 的人，对于 Anaconda 一定不陌生。Anaconda 默认附带了很多科学计算常用的包，并且提供了方便的虚拟环境隔离。但是，由于国内众所周知的网络问题，如果使用默认源，安装之后无论是更新还是安装新包都会遇到很多困难。当然，你肯定会说，换源呗，而在国内 Anaconda 使用最广泛的源就是清华大学 TUNA 源。不过，在实际操作过程中中，我发现了一些问题，并经过摸索顺利解决，现将解决方案分享如下。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Windows 7 安装及更新注意事项</title>
-      <link>https://yuweihung.com/post/install-win7/</link>
-      <pubDate>Tue, 21 Apr 2020 21:49:37 +0800</pubDate>
-      
-      <guid>https://yuweihung.com/post/install-win7/</guid>
-      <description>&lt;p&gt;由于一些软件不想安装在实体机中污染环境以及避免一些兼容性问题，在系统中安装一个 Windows 的虚拟机还是有必要的。不过，在安装 Win 7 系统后的更新中可能会遇到一些问题，在此做一个记录，希望能够帮助到后来者。&lt;/p&gt;</description>
     </item>
     
   </channel>
