@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>系统安装 on Yu Weihong&#39;s Blog</title>
+    <link>https://yuweihung.com/tags/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85/</link>
+    <description>Recent content in 系统安装 on Yu Weihong&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Apr 2020 21:49:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://yuweihung.com/tags/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows 7 安装及更新注意事项</title>
+      <link>https://yuweihung.com/post/install-win7/</link>
+      <pubDate>Tue, 21 Apr 2020 21:49:37 +0800</pubDate>
+      
+      <guid>https://yuweihung.com/post/install-win7/</guid>
+      <description>&lt;p&gt;由于一些软件不想安装在实体机中污染环境以及避免一些兼容性问题，在系统中安装一个 Windows 的虚拟机还是有必要的。不过，在安装 Win 7 系统后的更新中可能会遇到一些问题，在此做一个记录，希望能够帮助到后来者。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

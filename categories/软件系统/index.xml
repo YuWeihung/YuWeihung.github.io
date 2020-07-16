@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>软件系统 on Yu Weihong&#39;s Blog</title>
+    <link>https://yuweihung.com/categories/%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 软件系统 on Yu Weihong&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 04 May 2020 10:00:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://yuweihung.com/categories/%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Win10笔记本上Chrome如何启用N卡</title>
+      <link>https://yuweihung.com/post/laptop-chrome-nvidia/</link>
+      <pubDate>Mon, 04 May 2020 10:00:19 +0800</pubDate>
+      
+      <guid>https://yuweihung.com/post/laptop-chrome-nvidia/</guid>
+      <description>&lt;p&gt;我们都知道，独立显卡在性能方面一般是要远远强于集成显卡的，当然硬解视频也不例外。而我们现在很多时候都会选择在网上来在线观看视频，而非下载后本地播放，因此解码视频的任务就压在了浏览器上。可是，我们常用的 Chrome 浏览器默认只能使用 Intel 核显来工作。因此，本文就来介绍如何在双显卡笔记本上让 Chrome 启用 Nvidia 显卡。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anaconda 使用清华源并解决警告</title>
+      <link>https://yuweihung.com/post/anaconda-channel/</link>
+      <pubDate>Thu, 23 Apr 2020 11:09:19 +0800</pubDate>
+      
+      <guid>https://yuweihung.com/post/anaconda-channel/</guid>
+      <description>&lt;p&gt;相信只要是写过 Python 的人，对于 Anaconda 一定不陌生。Anaconda 默认附带了很多科学计算常用的包，并且提供了方便的虚拟环境隔离。但是，由于国内众所周知的网络问题，如果使用默认源，安装之后无论是更新还是安装新包都会遇到很多困难。当然，你肯定会说，换源呗，而在国内 Anaconda 使用最广泛的源就是清华大学 TUNA 源。不过，在实际操作过程中中，我发现了一些问题，并经过摸索顺利解决，现将解决方案分享如下。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Windows 7 安装及更新注意事项</title>
+      <link>https://yuweihung.com/post/install-win7/</link>
+      <pubDate>Tue, 21 Apr 2020 21:49:37 +0800</pubDate>
+      
+      <guid>https://yuweihung.com/post/install-win7/</guid>
+      <description>&lt;p&gt;由于一些软件不想安装在实体机中污染环境以及避免一些兼容性问题，在系统中安装一个 Windows 的虚拟机还是有必要的。不过，在安装 Win 7 系统后的更新中可能会遇到一些问题，在此做一个记录，希望能够帮助到后来者。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
