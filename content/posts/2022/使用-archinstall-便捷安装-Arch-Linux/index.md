@@ -1,5 +1,5 @@
 ---
-title: "使用 archinstall 快捷安装 Arch Linux"
+title: "使用 archinstall 便捷安装 Arch Linux"
 date: 2022-10-27T19:21:35+08:00
 draft: false
 slug: "install-archlinux-using-archinstall"

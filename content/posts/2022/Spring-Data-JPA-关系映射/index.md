@@ -1,10 +1,10 @@
 ---
 title: "Spring Data JPA 关系映射"
-date: 2022-08-20T12:16:37+08:00
+date: 2022-12-08T12:16:37+08:00
 draft: true
 slug: "spring-data-jpa-relationship"
 categories: ["后端"]
-tags: ["JPA", "PostgreSQL"]
+tags: ["Kotlin", "JPA", "PostgreSQL"]
 ---
 
 本文主要介绍了如何使用 Spring Data JPA 操作 PostgreSQL 数据库。
