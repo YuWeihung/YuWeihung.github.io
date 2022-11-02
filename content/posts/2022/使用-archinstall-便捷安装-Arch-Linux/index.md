@@ -1,6 +1,6 @@
 ---
 title: "使用 archinstall 便捷安装 Arch Linux"
-date: 2022-10-27T19:21:35+08:00
+date: 2022-10-17T19:21:35+08:00
 draft: false
 slug: "install-archlinux-using-archinstall"
 categories: ["Linux"]
@@ -21,7 +21,7 @@ root@archiso ~ # archinstall
 
 然后就可以看到安装的指引界面。
 
-{{< img src="pic1.png" width="100%">}}
+{{<img src="pic1.png" width="100%">}}
 
 接着我们从上到下依次进行设置。
 
@@ -60,4 +60,4 @@ systemctl enable sshd
 
 重启后，通过 ssh 连接到刚刚创建的用户，就可以开始使用了。以新系统的 neofetch 信息作结。
 
-{{< img src="pic2.png" width="100%">}}
+{{<img src="pic2.png" width="100%">}}

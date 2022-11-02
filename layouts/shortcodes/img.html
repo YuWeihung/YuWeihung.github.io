@@ -1,10 +1,9 @@
 <!-- image -->
 <figure class="align-center">
-    <img loading="lazy" src="assets/{{ .Get `src` }}#center" width=
-    "{{- if .Get `width` -}} {{ .Get `width` }}{{ else }} 60% {{- end -}}" />
-    <figcaption>
-        {{ with (.Get "title") -}}
-            {{ . }}
-        {{- end -}}
-    </figcaption>
+  <img
+    loading="lazy"
+    src="assets/{{ .Get `src` }}#center"
+    width="{{- if .Get `width` -}} {{ .Get `width` }}{{ else }} 100% {{- end -}}"
+  />
+  <figcaption>{{ with (.Get "title") -}} {{ . }} {{- end -}}</figcaption>
 </figure>

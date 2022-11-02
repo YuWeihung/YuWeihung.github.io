@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 高阶函数"
-date: 2022-09-14T18:50:02+08:00
-draft: true
+date: 2022-11-02T18:50:02+08:00
+draft: false
 slug: "javascript-functional-programming"
 categories: ["前端"]
 tags: ["JavaScript", "函数式编程"]
@@ -148,7 +148,7 @@ forEach() 类似于 map()，也会对每一个元素执行一次给定的函数�
 
 ```js
 const a = [1, 2, 3, 4, 5]
-a.forEach((x) => {
-  console.log(x)
-})
+a.forEach((x) => console.log(x))
 ```
+
+输出 1 2 3 4 5
