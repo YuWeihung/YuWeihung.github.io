@@ -1,13 +1,13 @@
 ---
-title: "JavaScript 高阶函数"
-date: 2022-11-02T18:50:02+08:00
+title: "JavaScript 高阶函数介绍"
+date: 2022-09-12T18:50:02+08:00
 draft: false
 slug: "javascript-functional-programming"
 categories: ["前端"]
 tags: ["JavaScript", "函数式编程"]
 ---
 
-高阶函数，就是以函数作为参数或是返回值的函数，是函数式编程的基本思想之一。本文介绍了 JavaScript 中对于数组的一系列高阶函数，包括 map, reduce, filter, sort 等。
+高阶函数，就是以函数作为参数或是返回值的函数，是函数式编程的基本思想之一，在众多编程语言中都有实现。本文以 JavaScript 语言为例介绍了对于数组的一系列高阶函数，包括 map, reduce, filter, sort 等。
 
 <!--more-->
 

@@ -1,6 +1,6 @@
 ---
 title: "Spring Data JPA 介绍"
-date: 2022-09-14T12:16:37+08:00
+date: 2022-11-19T12:16:37+08:00
 draft: false
 slug: "spring-data-jpa-relationship"
 categories: ["后端"]
@@ -29,7 +29,7 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
-spring.jpa.database-platform=org.hibernate.dialect.PostgreSQL10Dialect
+spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 ```
 
 postgres 部分定义了数据库的地址，用户名和密码，以及数据库的驱动。而 JPA 部分则定义了 JPA 运行时的一些行为，比如在启动时如何更新表结构等。
@@ -303,5 +303,62 @@ class User {
     @LastModifiedDate
     @Column(name = "modified_time", nullable = false)
     var modifiedTime: LocalDateTime? = null
+}
+```
+
+## 实体类继承
+
+如果我们想要所有的实体类都继承自一个基类的话，可以使用 `MappedSuperclass` 注解。
+
+被该注解标注的类不会在数据库中创建单独的表，但该类所拥有的属性都将映射到其子类的数据库表的字段中。
+
+例如
+
+```kt
+// 基类
+@MappedSuperclass
+class BaseEntity {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id", nullable = false)
+    var id: Long? = null
+}
+
+// 用户表
+@Entity
+@Table(name = "\"user\"")
+class User: BaseEntity() {
+    @Column(name = "username", nullable = false)
+    var username: String
+
+    @Column(name = "password", nullable = false)
+    var password: String
+}
+```
+
+这样 User 表就有三个字段，分别是 `id`，`username` 以及 `password`。
+
+## Kotlin All-open 插件
+
+由于 Spring AOP 的设计，所有 Spring 相关的类都需要是 open 的。我们可以使用 `all-open` 插件来方便地解决这一问题。
+
+`all-open` 插件默认支持以下注解：
+
+- `@Component`
+- `@Async`
+- `@Transactional`
+- `@Cacheable`
+- `@SpringBootTest`
+
+由于 `@Component` 是 `@Configuration`、`@Controller`、`@RestController`、`@Service` 以及 `@Repository` 的元注解，所以以上注解也都默认为 open。
+
+所以，我们只需要在插件中添加 JPA 相关注解就可以了。
+
+修改 `build.gradle.kts` 文件
+
+```kt
+allOpen {
+    annotation("jakarta.persistence.MappedSuperclass")
+    annotation("jakarta.persistence.Entity")
 }
 ```
