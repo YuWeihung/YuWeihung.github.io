@@ -11,6 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
+googleAnalytics: G-P9B4DKL1HC
 
 minify:
   disableXML: true
@@ -62,6 +63,12 @@ params:
       - ✨ 欢迎来到我的个人博客
 
       - 🔭 我正在努力学习成为一名全栈开发工程师
+
+  socialIcons:
+    - name: Github
+      url: "https://github.com/YuWeihung"
+    - name: RSS
+      url: "index.xml"
 
 markup:
   goldmark:
