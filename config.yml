@@ -1,6 +1,6 @@
 baseURL: "https://www.yuweihung.com/"
 title: Yu Weihong's Blog
-paginate: 8
+paginate: 10
 theme: PaperMod
 languageCode: zh
 defaultContentLanguage: zh
@@ -8,14 +8,14 @@ defaultContentLanguage: zh
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
+buildFuture: true
 buildExpired: false
 enableEmoji: true
 googleAnalytics: G-P9B4DKL1HC
 
 minify:
   disableXML: true
-  # minifyOutput: true
+  minifyOutput: true
 
 menu:
   main:

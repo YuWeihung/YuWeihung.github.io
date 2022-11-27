@@ -1,6 +1,6 @@
 ---
 title: "Spring Data JPA 介绍"
-date: 2022-11-19T12:16:37+08:00
+date: 2022-11-27T12:16:37+08:00
 draft: false
 slug: "spring-data-jpa-relationship"
 categories: ["后端"]
