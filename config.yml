@@ -1,5 +1,5 @@
 baseURL: "https://www.yuweihung.com/"
-title: Yu Weihong's Blog
+title: Cassius's Blog
 paginate: 10
 theme: PaperMod
 languageCode: zh
@@ -41,7 +41,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "个人笔记随笔小站"
-  author: Yu Weihong
+  author: Cassius
   # author: ["Me", "You"] # multiple authors
   # images: /favicon.ico
 
