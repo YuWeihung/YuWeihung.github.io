@@ -216,4 +216,4 @@ int tolower(int c)
 int toupper(int c)
 ```
 
-对于 tolower()，如果 c 有相对应的小写字母，则该函数返回 c 的小写字母，否则返回 c 的原值。toupper() 类似。
+对于 tolower()，如果 c 有相对应的小写字母，则该函数返回 c 的小写字母，否则返回 c 的原值。toupper() 与之类似。
