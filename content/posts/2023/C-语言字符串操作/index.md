@@ -161,7 +161,7 @@ long int atol(const char *str)
 
 atof 将 str 转换为一个浮点数，atoi 将 str 转换为一个整数，atol 将 str 转换为一个长整数。
 
-```
+```c
 char str[] = "123.4";
 int a = atoi(str);
 double b = atof(str);
