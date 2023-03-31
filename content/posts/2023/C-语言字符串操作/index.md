@@ -41,7 +41,7 @@ char *strcpy(char *dest, const char *src)
 把 src 所指向的字符串复制到 dest，返回值为一个指向最终的目标字符串 dest 的指针。
 
 ```c
-`char *strncpy(char *dest, const char *src, size_t n)
+char *strncpy(char *dest, const char *src, size_t n)
 ```
 
 把 src 所指向的字符串复制到 dest，最多复制 n 个字符。当 src 的长度小于 n 时，dest 的剩余部分将用空字节填充，返回值为最终复制的字符串。需要注意的是，如果 src 的长度大于 n，strncpy() 并不会自动加上终止符 \0，需要手动添加。
