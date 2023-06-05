@@ -50,7 +50,7 @@ pluginManagement {
 
 答案当然是有的，那就是修改 `init.gradle.kts` 初始化脚本。初始化脚本的位置为 `USER_HOME/.gradle/init.gradle.kts'。添加如下内容
 
-```
+```kotlin
 allprojects {
     repositories {
 	    maven {
@@ -73,9 +73,36 @@ settingsEvaluated {
 
 这样全部项目就都会走阿里云的镜像仓库了。
 
+## Groovy 修改方式
+
+另附 Groovy DSL 的修改方式。修改 `init.gradle` 脚本
+
+```groovy
+allprojects {
+    repositories {
+	    maven {
+           url "https://maven.aliyun.com/repository/public/"
+       }
+       mavenLocal()
+       mavenCentral()
+    }
+}
+
+settingsEvaluated { settings ->
+    settings.pluginManagement {
+        repositories {
+            maven {
+                url "https://maven.aliyun.com/repository/gradle-plugin"
+            }
+            gradlePluginPortal()
+        }
+    }
+}
+```
+
 ---
 
 参考链接：
 
 1. [Declaring repositories](https://docs.gradle.org/current/userguide/declaring_repositories.html)
-2. [Using Gradle Plugins](https://docs.gradle.org/current/userguide/declaring_repositories.html)
+2. [Using Gradle Plugins](https://docs.gradle.org/current/userguide/plugins.html)
