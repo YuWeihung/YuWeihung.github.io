@@ -3,7 +3,7 @@ title: "解决 Hyper-V 端口占用问题"
 date: 2021-11-13T11:54:33+08:00
 draft: false
 slug: "hyper-v-reserved-port"
-categories: ["系统设置"]
+categories: ["Windows"]
 tags: ["Hyper-V", "Windows", "WSL"]
 ---
 

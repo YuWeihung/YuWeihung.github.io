@@ -3,7 +3,7 @@ title: "在 WSL2 中启用 Systemd"
 date: 2023-01-12T19:50:21+08:00
 draft: false
 slug: "wsl2-systemd"
-categories: ["系统设置"]
+categories: ["Windows"]
 tags: ["Windows", "WSL"]
 ---
 

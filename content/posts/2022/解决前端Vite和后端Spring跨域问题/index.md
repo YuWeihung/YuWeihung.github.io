@@ -1,5 +1,5 @@
 ---
-title: "解决前端 React + Vite 和后端 Kotlin Spring 跨域问题"
+title: "解决前端 Vite 和后端 Spring 跨域问题"
 date: 2022-05-25T12:09:08+08:00
 draft: false
 slug: "vite-spring-cross-origin"

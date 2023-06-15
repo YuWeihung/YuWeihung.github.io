@@ -1,8 +1,8 @@
 ---
-title: "在 Kotlin Gradle 项目中使用阿里云 Maven 仓库"
+title: "在 Gradle 项目中使用阿里云 Maven 仓库"
 date: 2022-06-03T19:20:44+08:00
 draft: false
-slug: "gradle-kts-aliyun-maven"
+slug: "gradle-aliyun-maven"
 categories: ["后端"]
 tags: ["Gradle", "Kotlin", "镜像加速"]
 ---

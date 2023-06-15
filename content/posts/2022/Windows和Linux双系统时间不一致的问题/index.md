@@ -3,7 +3,7 @@ title: "Windows 和 Linux 双系统时间不一致的问题"
 date: 2022-01-12T16:39:50+08:00
 draft: false
 slug: "dual-system-time-difference"
-categories: ["系统设置"]
+categories: ["Linux"]
 tags: ["Windows", "Linux"]
 ---
 

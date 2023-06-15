@@ -3,7 +3,7 @@ title: "Windows 11 系统启用 WSL 2 并安装 Docker"
 date: 2021-11-09T18:04:36+08:00
 draft: false
 slug: "wsl2-docker-instruction"
-categories: ["系统设置"]
+categories: ["Windows"]
 tags: ["WSL", "Docker", "代理"]
 ---
 
