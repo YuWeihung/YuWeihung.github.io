@@ -38,7 +38,7 @@ cd boost_1_82_0/
 
 ### 修改虚拟机 vmx 配置文件
 
-其中的一个办法是修改虚拟机的 vmx 配置文件，打开虚拟机目录下的 `.vmx` 文件，添加如下内容
+其中的一个办法是修改虚拟机的 vmx 配置文件，打开虚拟机目录下的 `.vmx` 文件（或全局配置文件：`C:\ProgramData\VMware\VMware Workstation\config.ini`），添加如下内容
 
 ```
 processor0.use = "TRUE"
