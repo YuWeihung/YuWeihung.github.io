@@ -62,6 +62,12 @@ ps --no-headers -o comm 1
 sudo systemctl enable docker.service
 ```
 
+添加用户组
+
+```
+sudo usermod -aG docker $USER
+```
+
 我们还可以通过输入命令来查看 systemd 管理的服务状态。
 
 ```
