@@ -4,7 +4,7 @@ date: 2022-08-20T20:53:22+08:00
 draft: false
 slug: "spring-boot-deployment"
 categories: ["后端"]
-tags: ["Spring Boot", "React", "Gradle", "Nginx"]
+tags: ["Spring Boot", "Nginx"]
 ---
 
 本文介绍了如何部署后端 Spring Boot 前端 React 的前后端分离项目。

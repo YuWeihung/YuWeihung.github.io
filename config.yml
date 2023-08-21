@@ -62,12 +62,14 @@ params:
     Content: >
       - ✨ 欢迎来到我的个人博客
 
-      - 🔭 我正在努力学习成为一名全栈开发工程师
+      - 🔭 我目前的研究兴趣包括机器学习以及全栈开发
 
   socialIcons:
-    - name: Github
-      url: "https://github.com/YuWeihung"
-    - name: RSS
+    - name: github
+      url: "https://github.com/YuWeihung/"
+    - name: leetcode
+      url: "https://leetcode.cn/u/fzzf-z/"
+    - name: rss
       url: "index.xml"
 
 markup:

@@ -4,7 +4,7 @@ date: 2022-05-25T12:09:08+08:00
 draft: false
 slug: "vite-spring-cross-origin"
 categories: ["前端"]
-tags: ["React", "Vite", "Kotlin", "Spring Boot", "Spring Security"]
+tags: ["Vite", "Kotlin", "Spring Boot", "Spring Security"]
 ---
 
 本文主要介绍了如何解决前后端分离项目（前端：React + Vite，后端 Kotlin + Spring Security）的跨域问题。
