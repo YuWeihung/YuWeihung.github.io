@@ -62,7 +62,7 @@ params:
     Content: >
       - ✨ 欢迎来到我的个人博客
 
-      - 🔭 我目前的研究兴趣包括机器学习以及全栈开发
+      - 🔭 我目前的研究兴趣包括深度学习以及 Web 开发
 
   socialIcons:
     - name: github
