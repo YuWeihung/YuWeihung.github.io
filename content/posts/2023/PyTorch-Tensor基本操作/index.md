@@ -145,8 +145,13 @@ print(A @ B)
 
 ### 6. 自动求导
 
-$$ y = e^{x_1} + e^{x_2} + e^{x_3}$$
-$$ y'\_{x_1} = e^{x_1}$$
+\\[
+y = e^{x_1} + e^{x_2} + e^{x_3}
+\\]
+
+\\[
+y^{'}_{x_1} = e^{x_1}
+\\]
 
 ```python
 x = torch.arange(4.0, requires_grad=True)
@@ -160,8 +165,13 @@ print(x.grad)
 # tensor([ 1.0000,  2.7183,  7.3891, 20.0855])
 ```
 
-$$ y = x_1^2 + x_2^2 + x_3^3 $$
-$$ y'\_{x_1} = 2x_1 $$
+\\[
+y = x_1^2 + x_2^2 + x_3^3
+\\]
+
+\\[
+y^{'}_{x_1} = 2x_1
+\\]
 
 ```python
 x = torch.arange(4.0, requires_grad=True)
