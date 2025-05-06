@@ -1,9 +1,11 @@
 baseURL: "https://www.yuweihung.com/"
 title: Cassius's Blog
-paginate: 10
 theme: PaperMod
 languageCode: zh
 defaultContentLanguage: zh
+
+pagination:
+  pagerSize: 10
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
