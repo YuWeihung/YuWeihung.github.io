@@ -3,7 +3,7 @@ title: "LaTeX 基本使用方法"
 date: 2023-12-17T14:07:48+08:00
 draft: false
 slug: "latex-tutorial"
-categories: ["Linux"]
+categories: ["编程语言"]
 tags: ["LaTeX"]
 ---
 
