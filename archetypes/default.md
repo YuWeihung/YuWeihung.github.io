@@ -2,11 +2,9 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-slug: ""
-categories: [""]
-tags: [""]
+slug: "lc-"
+categories: ["高频面试题"]
+tags: ["",""]
 ---
-
-
 
 <!--more-->
