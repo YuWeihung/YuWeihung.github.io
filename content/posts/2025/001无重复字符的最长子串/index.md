@@ -10,7 +10,7 @@ tags: ["哈希表", "滑动窗口"]
 LeetCode 0003
 https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/
 
-难度：Mid
+难度：中等
 
 本题为经典的哈希表加滑动窗口的题目，哈希表统计窗口内字符出现次数，如果窗口右端点字符出现次数大于 1，右移左端点，直到无重复字符，最后更新答案。窗口的长度为 right - left + 1。
 

@@ -1,17 +1,17 @@
 ---
-title: "006三数之和"
+title: "006：三数之和"
 date: 2025-06-27T12:50:03+08:00
 draft: false
 slug: "lc-0015"
 categories: ["高频面试题"]
-tags: ["", ""]
+tags: ["相向双指针"]
 ---
 
 LeetCode 15
 
 https://leetcode.cn/problems/3sum/description/
 
-难度：Mid
+难度：中等
 
 首先，由于输出的顺序不重要，可以先将数组进行排序。然后，枚举第一个数，转化为两数之和 II（LeetCode 142）。为了排除重复答案，如果 i，j，k 与上一个元素相同，需要去重。
 

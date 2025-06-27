@@ -11,7 +11,7 @@ LeetCode 206
 
 https://leetcode.cn/problems/reverse-linked-list/description/
 
-难度：Easy
+难度：简单
 
 本题有迭代和递归两种解法，迭代法更易理解，且空间复杂度更优。
 

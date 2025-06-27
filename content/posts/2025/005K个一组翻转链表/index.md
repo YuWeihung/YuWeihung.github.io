@@ -11,7 +11,7 @@ LeetCode 25
 
 https://leetcode.cn/problems/reverse-nodes-in-k-group/description/
 
-难度：Hard
+难度：困难
 
 反转一组节点的代码与 LeetCode 206 类似，每次修改一个节点的 next。
 

@@ -21,8 +21,8 @@ LeetCode 高频面试题汇总
 | [4](https://www.yuweihung.com/posts/2025/lc-0215/)    | LC0215            | 数组中的第 K 个最大元素                    | 中等   | 快速排序   |
 | [5](https://www.yuweihung.com/posts/2025/lc-0025/)    | LC0025            | K 个一组翻转链表                           | 困难   | 链表       |
 | [6](https://www.yuweihung.com/posts/2025/lc-0015/)    | LC0015            | 三数之和                                   | 中等   | 相向双指针 |
-| [7](https://www.yuweihung.com/posts/2025/lc-0053/)    | LC0053            | 最大子数组和                               | 中等   |            |
-| [8]()                                                 | 补充题 4          | 手撕快速排序                               | 中等   |            |
+| [7](https://www.yuweihung.com/posts/2025/lc-0053/)    | LC0053            | 最大子数组和                               | 中等   | 前缀和     |
+| [8](https://www.yuweihung.com/posts/2025/lc-0912)     | LC0912            | 手撕快速排序                               | 中等   | 快速排序   |
 | [9](https://www.yuweihung.com/posts/2025/lc-0021/)    | LC0021            | 合并两个有序链表                           | 容易   |            |
 | [10](https://www.yuweihung.com/posts/2025/lc-0005/)   | LC0005            | 最长回文子串                               | 中等   |            |
 | [11](https://www.yuweihung.com/posts/2025/lc-0102/)   | LC0102            | 二叉树的层序遍历                           | 中等   |            |

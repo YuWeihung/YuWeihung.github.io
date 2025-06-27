@@ -4,12 +4,14 @@ date: 2025-06-25T17:43:43+08:00
 draft: false
 slug: "lc-0215"
 categories: ["高频面试题"]
-tags: ["排序"]
+tags: ["快速排序"]
 ---
 
 LeetCode 215
 
 https://leetcode.cn/problems/kth-largest-element-in-an-array/description/
+
+难度：中等
 
 快速选择算法，类似快速排序。
 

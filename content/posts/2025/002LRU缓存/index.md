@@ -11,7 +11,7 @@ LeetCode 146
 
 https://leetcode.cn/problems/lru-cache/description/
 
-难度：Mid
+难度：中等
 
 本题是双向链表和哈希表的经典题目。每个节点有 key，value，还有两个指针 prev 和 next 分别指向前一个和下一个节点。
 
