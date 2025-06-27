@@ -18,6 +18,7 @@ https://leetcode.cn/problems/lru-cache/description/
 此外，链表中还包含一个 dummy 节点，让每个节点的 prev 和 next 都不为空。
 
 时间复杂度：所有操作均为 O(1)。
+
 空间复杂度：O(min(p,capacity))，其中 p 为 put 的调用次数。
 
 <!--more-->
