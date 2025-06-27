@@ -7,11 +7,9 @@ categories: ["高频面试题"]
 tags: ["C++"]
 ---
 
-LeetCode 高频面试题汇总
+LeetCode 高频面试题汇总。
 
 <!--more-->
-
-好的，我已经根据您的要求修改了表格。现在所有 LeetCode 4 位数字的题号都已添加指定格式的超链接，其他类型题号保持空白链接。以下是修改后的完整表格：
 
 | 序号                                                  | 题号              | 题目                                       | 难度   | 标签       |
 | ----------------------------------------------------- | ----------------- | ------------------------------------------ | ------ | ---------- |
@@ -23,7 +21,7 @@ LeetCode 高频面试题汇总
 | [6](https://www.yuweihung.com/posts/2025/lc-0015/)    | LC0015            | 三数之和                                   | 中等   | 相向双指针 |
 | [7](https://www.yuweihung.com/posts/2025/lc-0053/)    | LC0053            | 最大子数组和                               | 中等   | 前缀和     |
 | [8](https://www.yuweihung.com/posts/2025/lc-0912)     | LC0912            | 手撕快速排序                               | 中等   | 快速排序   |
-| [9](https://www.yuweihung.com/posts/2025/lc-0021/)    | LC0021            | 合并两个有序链表                           | 容易   |            |
+| [9](https://www.yuweihung.com/posts/2025/lc-0021/)    | LC0021            | 合并两个有序链表                           | 容易   | 链表       |
 | [10](https://www.yuweihung.com/posts/2025/lc-0005/)   | LC0005            | 最长回文子串                               | 中等   |            |
 | [11](https://www.yuweihung.com/posts/2025/lc-0102/)   | LC0102            | 二叉树的层序遍历                           | 中等   |            |
 | [12](https://www.yuweihung.com/posts/2025/lc-0001/)   | LC0001            | 两数之和                                   | 容易   |            |
