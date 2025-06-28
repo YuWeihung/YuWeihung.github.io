@@ -26,7 +26,7 @@ LeetCode 高频面试题汇总。
 | [11](https://www.yuweihung.com/posts/2025/lc-0102/)   | LC0102            | 二叉树的层序遍历                           | 中等   | BFS        |
 | [12](https://www.yuweihung.com/posts/2025/lc-0001/)   | LC0001            | 两数之和                                   | 容易   | 哈希表     |
 | [13](https://www.yuweihung.com/posts/2025/lc-0033/)   | LC0033            | 搜索旋转排序数组                           | 中等   | 二分查找   |
-| [14](https://www.yuweihung.com/posts/极2025/lc-0200/) | LC0200            | 岛屿数量                                   | 中等   |            |
+| [14](https://www.yuweihung.com/posts/极2025/lc-0200/) | LC0200            | 岛屿数量                                   | 中等   | DFS        |
 | [15](https://www.yuweihung.com/posts/2025/lc-0046/)   | LC0046            | 全排列                                     | 中等   |            |
 | [16](https://www.yuweihung.com/posts/2025/lc-0088/)   | LC0088            | 合并两个有序数组                           | 容易   |            |
 | [17](https://www.yuweihung.com/posts/2025/lc-0020/)   | LC0020            | 有效的括号                                 | 容易   |            |
