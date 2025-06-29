@@ -4,7 +4,7 @@ date: 2025-06-27T12:50:03+08:00
 draft: false
 slug: "lc-0015"
 categories: ["高频面试题"]
-tags: ["相向双指针"]
+tags: ["双指针"]
 ---
 
 LeetCode 15
