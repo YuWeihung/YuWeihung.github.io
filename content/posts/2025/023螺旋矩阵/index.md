@@ -4,7 +4,7 @@ date: 2025-06-29T19:19:14+08:00
 draft: false
 slug: "lc-0054"
 categories: ["高频面试题"]
-tags: ["矩阵"]
+tags: ["模拟"]
 ---
 
 LeetCode 54

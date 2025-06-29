@@ -35,14 +35,14 @@ LeetCode 高频面试题汇总。
 | [20](https://www.yuweihung.com/posts/2025/lc-0103/)   | LC0103            | 二叉树的锯齿形层次遍历                     | 中等   | BFS            |
 | [21](https://www.yuweihung.com/posts/2025/lc-0092/)   | LC0092            | 反转链表 II                                | 中等   | 链表           |
 | [22](https://www.yuweihung.com/posts/2025/lc-0141/)   | LC0141            | 环形链表                                   | 容易   | 快慢指针       |
-| [23](https://www.yuweihung.com/posts/2025/lc-0054/)   | LC0054            | 螺旋矩阵                                   | 中等   | 矩阵           |
+| [23](https://www.yuweihung.com/posts/2025/lc-0054/)   | LC0054            | 螺旋矩阵                                   | 中等   | 模拟           |
 | [24](https://www.yuweihung.com/posts/2025/lc-0300/)   | LC0300            | 最长上升子序列                             | 中等   | 动态规划，贪心 |
 | [25](https://www.yuweihung.com/posts/2025/lc-0023/)   | LC0023            | 合并 K 个排序链表                          | 困难   | 堆             |
-| [26](https://www.yuweihung.com/posts/2025/lc-0143/)   | LC0143            | 重排链表                                   | 中等   |                |
-| [27](https://www.yuweihung.com/posts/2025/lc-0415/)   | LC0415            | 字符串相加                                 | 容易   |                |
-| [28](https://www.yuweihung.com/posts/2025/lc-0056/)   | LC0056            | 合并区间                                   | 中等   |                |
-| [29](https://www.yuweihung.com/posts/2025/lc-0160/)   | LC0160            | 相交链表                                   | 容易   |                |
-| [30](https://www.yuweihung.com/posts/2025/lc-0042/)   | LC0042            | 接雨水                                     | 困难   |                |
+| [26](https://www.yuweihung.com/posts/2025/lc-0143/)   | LC0143            | 重排链表                                   | 中等   | 链表           |
+| [27](https://www.yuweihung.com/posts/2025/lc-0415/)   | LC0415            | 字符串相加                                 | 容易   | 模拟           |
+| [28](https://www.yuweihung.com/posts/2025/lc-0056/)   | LC0056            | 合并区间                                   | 中等   | 排序           |
+| [29](https://www.yuweihung.com/posts/2025/lc-0160/)   | LC0160            | 相交链表                                   | 容易   | 双指针         |
+| [30](https://www.yuweihung.com/posts/2025/lc-0042/)   | LC0042            | 接雨水                                     | 困难   | 单调栈         |
 | [31](https://www.yuweihung.com/posts/2025/lc-0072/)   | LC0072            | 编辑距离                                   | 困难   |                |
 | [32](https://www.yuweihung.com/posts/2025/lc-0124/)   | LC0124            | 二叉树中的最大路径和                       | 困难   |                |
 | [33](https://www.yuweihung.com/posts/2025/lc-0093/)   | LC0093            | 复原 IP 地址                               | 中等   |                |
