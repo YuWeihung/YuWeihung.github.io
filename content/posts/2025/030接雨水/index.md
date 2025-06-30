@@ -1,5 +1,5 @@
 ---
-title: "30：接雨水"
+title: "030：接雨水"
 date: 2025-06-29T21:40:53+08:00
 draft: false
 slug: "lc-0042"
