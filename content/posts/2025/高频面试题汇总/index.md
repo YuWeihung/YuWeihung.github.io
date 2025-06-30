@@ -46,13 +46,13 @@ LeetCode 高频面试题汇总。
 | [31](https://www.yuweihung.com/posts/2025/lc-0072/)  | LC0072            | 编辑距离                                   | 中等 | 线性 DP       |
 | [32](https://www.yuweihung.com/posts/2025/lc-0124/)  | LC0124            | 二叉树中的最大路径和                       | 困难 | 树形 DP       |
 | [33](https://www.yuweihung.com/posts/2025/lc-0093/)  | LC0093            | 复原 IP 地址                               | 中等 | 子集型回溯    |
-| [34](https://www.yuweihung.com/posts/2025/lc-0142/)  | LC0142            | 环形链表 II                                | 中等 |               |
-| [35](https://www.yuweihung.com/posts/2025/lc-0019/)  | LC0019            | 删除链表的倒数第 N 个节点                  | 中等 |               |
-| [36](https://www.yuweihung.com/posts/2025/lc-1143/)  | LC1143            | 最长公共子序列                             | 中等 |               |
-| [37](https://www.yuweihung.com/posts/2025/lc-0082/)  | LC0082            | 删除排序链表中的重复元素 II                | 中等 |               |
-| [38](https://www.yuweihung.com/posts/2025/lc-0004/)  | LC0004            | 寻找两个正序数组的中位数                   | 困难 |               |
-| [39](https://www.yuweihung.com/posts/2025/lc-0199/)  | LC0199            | 二叉树的右视图                             | 中等 |               |
-| [40](https://www.yuweihung.com/posts/2025/lc-0094/)  | LC0094            | 二叉树的中序遍历                           | 简单 |               |
+| [34](https://www.yuweihung.com/posts/2025/lc-0142/)  | LC0142            | 环形链表 II                                | 中等 | 双指针        |
+| [35](https://www.yuweihung.com/posts/2025/lc-0019/)  | LC0019            | 删除链表的倒数第 N 个节点                  | 中等 | 双指针        |
+| [36](https://www.yuweihung.com/posts/2025/lc-1143/)  | LC1143            | 最长公共子序列                             | 中等 | 线性 DP       |
+| [37](https://www.yuweihung.com/posts/2025/lc-0082/)  | LC0082            | 删除排序链表中的重复元素 II                | 中等 | 链表          |
+| [38](https://www.yuweihung.com/posts/2025/lc-0004/)  | LC0004            | 寻找两个正序数组的中位数                   | 困难 | 二分查找      |
+| [39](https://www.yuweihung.com/posts/2025/lc-0199/)  | LC0199            | 二叉树的右视图                             | 中等 | 二叉树        |
+| [40](https://www.yuweihung.com/posts/2025/lc-0094/)  | LC0094            | 二叉树的中序遍历                           | 简单 | 二叉树        |
 | [41](https://www.yuweihung.com/posts/2025/lc-0165/)  | LC0165            | 比较版本号                                 | 中等 |               |
 | [42](https://www.yuweihung.com/posts/2025/lc-0704/)  | LC0704            | 二分查找                                   | 简单 |               |
 | [43](https://www.yuweihung.com/posts/2025/lc-0232/)  | LC0232            | 用栈实现队列                               | 简单 |               |
