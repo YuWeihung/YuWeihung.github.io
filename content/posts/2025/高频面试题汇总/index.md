@@ -57,12 +57,12 @@ LeetCode 高频面试题汇总。
 | [42](https://www.yuweihung.com/posts/2025/lc-0704/)  | LC0704            | 二分查找                                   | 简单 | 二分查找      |
 | [43](https://www.yuweihung.com/posts/2025/lc-0232/)  | LC0232            | 用栈实现队列                               | 简单 | 栈，队列      |
 | [44](https://www.yuweihung.com/posts/2025/lc-0022/)  | LC0022            | 括号生成                                   | 中等 | 回溯          |
-| [45](https://www.yuweihung.com/posts/2025/lc-0148/)  | LC0148            | 排序链表                                   | 中等 |               |
-| [46](https://www.yuweihung.com/posts/2025/lc-0031/)  | LC0031            | 下一个排列                                 | 中等 |               |
-| [47](https://www.yuweihung.com/posts/2025/lc-0069/)  | LC0069            | x 的平方根                                 | 简单 |               |
-| [48](https://www.yuweihung.com/posts/2025/lc-0239/)  | LC0239            | 滑动窗口最大值                             | 困难 |               |
-| [49](https://www.yuweihung.com/posts/2025/lc-0002/)  | LC0002            | 两数相加                                   | 中等 |               |
-| [50](https://www.yuweihung.com/posts/2025/lc-0008/)  | LC0008            | 字符串转换整数 (atoi)                      | 中等 |               |
+| [45](https://www.yuweihung.com/posts/2025/lc-0148/)  | LC0148            | 排序链表                                   | 中等 | 归并排序      |
+| [46](https://www.yuweihung.com/posts/2025/lc-0031/)  | LC0031            | 下一个排列                                 | 中等 | 思维题        |
+| [47](https://www.yuweihung.com/posts/2025/lc-0239/)  | LC0239            | 滑动窗口最大值                             | 困难 | 单调队列      |
+| [48](https://www.yuweihung.com/posts/2025/lc-0069/)  | LC0069            | x 的平方根                                 | 简单 | 二分答案      |
+| [49](https://www.yuweihung.com/posts/2025/lc-0002/)  | LC0002            | 两数相加                                   | 中等 | 链表          |
+| [50](https://www.yuweihung.com/posts/2025/lc-0008/)  | LC0008            | 字符串转换整数 (atoi)                      | 中等 | 模拟          |
 | [51](https://www.yuweihung.com/posts/2025/lc-0032/)  | LC0032            | 最长有效括号                               | 困难 |               |
 | [52](https://www.yuweihung.com/posts/2025/lc-0070/)  | LC0070            | 爬楼梯                                     | 简单 |               |
 | [53](https://www.yuweihung.com/posts/2025/lc-0322/)  | LC0322            | 零钱兑换                                   | 中等 |               |
