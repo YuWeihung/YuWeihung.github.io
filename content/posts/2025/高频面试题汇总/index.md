@@ -53,10 +53,10 @@ LeetCode 高频面试题汇总。
 | [38](https://www.yuweihung.com/posts/2025/lc-0004/)  | LC0004            | 寻找两个正序数组的中位数                   | 困难 | 二分查找      |
 | [39](https://www.yuweihung.com/posts/2025/lc-0199/)  | LC0199            | 二叉树的右视图                             | 中等 | 二叉树        |
 | [40](https://www.yuweihung.com/posts/2025/lc-0094/)  | LC0094            | 二叉树的中序遍历                           | 简单 | 二叉树        |
-| [41](https://www.yuweihung.com/posts/2025/lc-0165/)  | LC0165            | 比较版本号                                 | 中等 |               |
-| [42](https://www.yuweihung.com/posts/2025/lc-0704/)  | LC0704            | 二分查找                                   | 简单 |               |
-| [43](https://www.yuweihung.com/posts/2025/lc-0232/)  | LC0232            | 用栈实现队列                               | 简单 |               |
-| [44](https://www.yuweihung.com/posts/2025/lc-0022/)  | LC0022            | 括号生成                                   | 中等 |               |
+| [41](https://www.yuweihung.com/posts/2025/lc-0165/)  | LC0165            | 比较版本号                                 | 中等 | 字符串        |
+| [42](https://www.yuweihung.com/posts/2025/lc-0704/)  | LC0704            | 二分查找                                   | 简单 | 二分查找      |
+| [43](https://www.yuweihung.com/posts/2025/lc-0232/)  | LC0232            | 用栈实现队列                               | 简单 | 栈，队列      |
+| [44](https://www.yuweihung.com/posts/2025/lc-0022/)  | LC0022            | 括号生成                                   | 中等 | 回溯          |
 | [45](https://www.yuweihung.com/posts/2025/lc-0148/)  | LC0148            | 排序链表                                   | 中等 |               |
 | [46](https://www.yuweihung.com/posts/2025/lc-0031/)  | LC0031            | 下一个排列                                 | 中等 |               |
 | [47](https://www.yuweihung.com/posts/2025/lc-0069/)  | LC0069            | x 的平方根                                 | 简单 |               |
