@@ -73,16 +73,16 @@ LeetCode 高频面试题汇总。
 | [58](https://www.yuweihung.com/posts/2025/lcr-0140/) | 剑指 Offer 22     | 链表中倒数第 k 个节点                      | 简单 | 链表           |
 | [59](https://www.yuweihung.com/posts/2025/lc-0151/)  | LC0151            | 翻转字符串里的单词                         | 中等 | 字符串         |
 | [60](https://www.yuweihung.com/posts/2025/lc-0078/)  | LC0078            | 子集                                       | 中等 | 回溯           |
-| [61](https://www.yuweihung.com/posts/2025/lc-0129/)  | LC0129            | 求根到叶子节点数字之和                     | 中等 |                |
-| [62](https://www.yuweihung.com/posts/2025/lc-0155/)  | LC0155            | 最小栈                                     | 简单 |                |
-| [63](https://www.yuweihung.com/posts/2025/lc-0101/)  | LC0101            | 对称二叉树                                 | 简单 |                |
-| [64](https://www.yuweihung.com/posts/2025/lc-0034/)  | LC0034            | 在排序数组中查找元素的第一个和最后一个位置 | 中等 |                |
-| [65](https://www.yuweihung.com/posts/2025/lc-0104/)  | LC0104            | 二叉树的最大深度                           | 简单 |                |
-| [66](https://www.yuweihung.com/posts/2025/lc-0039/)  | LC0039            | 组合总和                                   | 中等 |                |
-| [67](https://www.yuweihung.com/posts/2025/lc-0394/)  | LC0394            | 字符串解码                                 | 中等 |                |
-| [68](https://www.yuweihung.com/posts/2025/lc-0144/)  | LC0144            | 二叉树的前序遍历                           | 简单 |                |
-| [69](https://www.yuweihung.com/posts/2025/lc-0470/)  | LC0470            | 用 Rand7() 实现 Rand10()                   | 中等 |                |
-| [70](https://www.yuweihung.com/posts/2025/lc-0110/)  | LC0110            | 平衡二叉树                                 | 简单 |                |
+| [61](https://www.yuweihung.com/posts/2025/lc-0129/)  | LC0129            | 求根到叶子节点数字之和                     | 中等 | 二叉树         |
+| [62](https://www.yuweihung.com/posts/2025/lc-0155/)  | LC0155            | 最小栈                                     | 中等 | 栈             |
+| [63](https://www.yuweihung.com/posts/2025/lc-0101/)  | LC0101            | 对称二叉树                                 | 简单 | 二叉树         |
+| [64](https://www.yuweihung.com/posts/2025/lc-0034/)  | LC0034            | 在排序数组中查找元素的第一个和最后一个位置 | 中等 | 二分查找       |
+| [65](https://www.yuweihung.com/posts/2025/lc-0104/)  | LC0104            | 二叉树的最大深度                           | 简单 | 二叉树         |
+| [66](https://www.yuweihung.com/posts/2025/lc-0039/)  | LC0039            | 组合总和                                   | 中等 | 回溯           |
+| [67](https://www.yuweihung.com/posts/2025/lc-0394/)  | LC0394            | 字符串解码                                 | 中等 | 栈             |
+| [68](https://www.yuweihung.com/posts/2025/lc-0144/)  | LC0144            | 二叉树的前序遍历                           | 简单 | 二叉树         |
+| [69](https://www.yuweihung.com/posts/2025/lc-0470/)  | LC0470            | 用 Rand7() 实现 Rand10()                   | 中等 | 概率论         |
+| [70](https://www.yuweihung.com/posts/2025/lc-0110/)  | LC0110            | 平衡二叉树                                 | 简单 | 二叉树         |
 | [71](https://www.yuweihung.com/posts/2025/lc-0064/)  | LC0064            | 最小路径和                                 | 中等 |                |
 | [72](https://www.yuweihung.com/posts/2025/lc-0048/)  | LC0048            | 旋转图像                                   | 中等 |                |
 | [73](https://www.yuweihung.com/posts/2025/lc-0543/)  | LC0543            | 二叉树的直径                               | 简单 |                |
