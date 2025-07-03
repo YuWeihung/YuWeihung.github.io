@@ -27,14 +27,14 @@ LeetCode 高频面试题汇总。
 | [12](https://www.yuweihung.com/posts/2025/lc-0001/)  | LC0001            | 两数之和                                   | 简单 | 哈希表         |
 | [13](https://www.yuweihung.com/posts/2025/lc-0033/)  | LC0033            | 搜索旋转排序数组                           | 中等 | 二分查找       |
 | [14](https://www.yuweihung.com/posts/2025/lc-0200/)  | LC0200            | 岛屿数量                                   | 中等 | DFS            |
-| [15](https://www.yuweihung.com/posts/2025/lc-0046/)  | LC0046            | 全排列                                     | 中等 | 排列型回溯     |
+| [15](https://www.yuweihung.com/posts/2025/lc-0046/)  | LC0046            | 全排列                                     | 中等 | 回溯           |
 | [16](https://www.yuweihung.com/posts/2025/lc-0088/)  | LC0088            | 合并两个有序数组                           | 简单 | 双指针         |
 | [17](https://www.yuweihung.com/posts/2025/lc-0020/)  | LC0020            | 有效的括号                                 | 简单 | 栈             |
 | [18](https://www.yuweihung.com/posts/2025/lc-0121/)  | LC0121            | 买卖股票的最佳时机                         | 简单 | 贪心           |
 | [19](https://www.yuweihung.com/posts/2025/lc-0236/)  | LC0236            | 二叉树的最近公共祖先                       | 中等 | 二叉树         |
 | [20](https://www.yuweihung.com/posts/2025/lc-0103/)  | LC0103            | 二叉树的锯齿形层次遍历                     | 中等 | BFS            |
 | [21](https://www.yuweihung.com/posts/2025/lc-0092/)  | LC0092            | 反转链表 II                                | 中等 | 链表           |
-| [22](https://www.yuweihung.com/posts/2025/lc-0141/)  | LC0141            | 环形链表                                   | 简单 | 快慢指针       |
+| [22](https://www.yuweihung.com/posts/2025/lc-0141/)  | LC0141            | 环形链表                                   | 简单 | 双指针         |
 | [23](https://www.yuweihung.com/posts/2025/lc-0054/)  | LC0054            | 螺旋矩阵                                   | 中等 | 模拟           |
 | [24](https://www.yuweihung.com/posts/2025/lc-0300/)  | LC0300            | 最长上升子序列                             | 中等 | 动态规划，贪心 |
 | [25](https://www.yuweihung.com/posts/2025/lc-0023/)  | LC0023            | 合并 K 个排序链表                          | 困难 | 堆             |
@@ -45,7 +45,7 @@ LeetCode 高频面试题汇总。
 | [30](https://www.yuweihung.com/posts/2025/lc-0042/)  | LC0042            | 接雨水                                     | 困难 | 单调栈         |
 | [31](https://www.yuweihung.com/posts/2025/lc-0072/)  | LC0072            | 编辑距离                                   | 中等 | 动态规划       |
 | [32](https://www.yuweihung.com/posts/2025/lc-0124/)  | LC0124            | 二叉树中的最大路径和                       | 困难 | 动态规划       |
-| [33](https://www.yuweihung.com/posts/2025/lc-0093/)  | LC0093            | 复原 IP 地址                               | 中等 | 子集型回溯     |
+| [33](https://www.yuweihung.com/posts/2025/lc-0093/)  | LC0093            | 复原 IP 地址                               | 中等 | 回溯           |
 | [34](https://www.yuweihung.com/posts/2025/lc-0142/)  | LC0142            | 环形链表 II                                | 中等 | 双指针         |
 | [35](https://www.yuweihung.com/posts/2025/lc-0019/)  | LC0019            | 删除链表的倒数第 N 个节点                  | 中等 | 双指针         |
 | [36](https://www.yuweihung.com/posts/2025/lc-1143/)  | LC1143            | 最长公共子序列                             | 中等 | 动态规划       |
@@ -69,10 +69,10 @@ LeetCode 高频面试题汇总。
 | [54](https://www.yuweihung.com/posts/2025/lc-0043/)  | LC0043            | 字符串相乘                                 | 中等 | 模拟           |
 | [55](https://www.yuweihung.com/posts/2025/lc-0076/)  | LC0076            | 最小覆盖子串                               | 困难 | 滑动窗口       |
 | [56](https://www.yuweihung.com/posts/2025/lc-0041/)  | LC0041            | 缺失的第一个正数                           | 困难 | 思维题         |
-| [57](https://www.yuweihung.com/posts/2025/lc-0105/)  | LC0105            | 从前序与中序遍历序列构造二叉树             | 中等 |                |
-| [58]()                                               | 剑指 Offer 22     | 链表中倒数第 k 个节点                      | 简单 |                |
-| [59](https://www.yuweihung.com/posts/2025/lc-0151/)  | LC0151            | 翻转字符串里的单词                         | 中等 |                |
-| [60](https://www.yuweihung.com/posts/2025/lc-0078/)  | LC0078            | 子集                                       | 中等 |                |
+| [57](https://www.yuweihung.com/posts/2025/lc-0105/)  | LC0105            | 从前序与中序遍历序列构造二叉树             | 中等 | 二叉树         |
+| [58](https://www.yuweihung.com/posts/2025/lcr-0140/) | 剑指 Offer 22     | 链表中倒数第 k 个节点                      | 简单 | 链表           |
+| [59](https://www.yuweihung.com/posts/2025/lc-0151/)  | LC0151            | 翻转字符串里的单词                         | 中等 | 字符串         |
+| [60](https://www.yuweihung.com/posts/2025/lc-0078/)  | LC0078            | 子集                                       | 中等 | 回溯           |
 | [61](https://www.yuweihung.com/posts/2025/lc-0129/)  | LC0129            | 求根到叶子节点数字之和                     | 中等 |                |
 | [62](https://www.yuweihung.com/posts/2025/lc-0155/)  | LC0155            | 最小栈                                     | 简单 |                |
 | [63](https://www.yuweihung.com/posts/2025/lc-0101/)  | LC0101            | 对称二叉树                                 | 简单 |                |
