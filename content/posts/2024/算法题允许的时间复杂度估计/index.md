@@ -1,5 +1,5 @@
 ---
-title: "算法题要求的时间复杂度估计"
+title: "算法题允许的时间复杂度估计"
 date: 2024-12-03T23:38:07+08:00
 draft: false
 slug: "leetcode-time-complexity-estimation"
