@@ -103,7 +103,7 @@ LeetCode 高频面试题汇总。
 | [88](https://www.yuweihung.com/posts/2025/lc-0179/)    | LC0179           | 最大数                                     | 中等 | 贪心           |
 | [89](https://www.yuweihung.com/posts/2025/lc-0112/)    | LC0112           | 路径总和                                   | 简单 | 二叉树         |
 | [90](https://www.yuweihung.com/posts/2025/lc-0560/)    | LC0560           | 和为 K 的子数组                            | 中等 | 前缀和         |
-| [91](https://www.yuweihung.com/posts/2025/lc-0227/)    | LC0227           | 基本计算器 II                              | 中等 |                |
+| [91](https://www.yuweihung.com/posts/2025/lc-0227/)    | LC0227           | 基本计算器 II                              | 中等 | 栈             |
 | [92](https://www.yuweihung.com/posts/2025/lc-0169/)    | LC0169           | 多数元素                                   | 简单 |                |
 | [93](https://www.yuweihung.com/posts/2025/lc-0718/)    | LC0718           | 最长重复子数组                             | 中等 |                |
 | [94](https://www.yuweihung.com/posts/2025/lc-0209/)    | LC0209           | 长度最小的子数组                           | 中等 |                |
