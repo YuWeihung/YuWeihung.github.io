@@ -104,15 +104,15 @@ LeetCode 高频面试题汇总。
 | [89](https://www.yuweihung.com/posts/2025/lc-0112/)    | LC0112           | 路径总和                                   | 简单 | 二叉树         |
 | [90](https://www.yuweihung.com/posts/2025/lc-0560/)    | LC0560           | 和为 K 的子数组                            | 中等 | 前缀和         |
 | [91](https://www.yuweihung.com/posts/2025/lc-0227/)    | LC0227           | 基本计算器 II                              | 中等 | 栈             |
-| [92](https://www.yuweihung.com/posts/2025/lc-0169/)    | LC0169           | 多数元素                                   | 简单 |                |
-| [93](https://www.yuweihung.com/posts/2025/lc-0718/)    | LC0718           | 最长重复子数组                             | 中等 |                |
-| [94](https://www.yuweihung.com/posts/2025/lc-0209/)    | LC0209           | 长度最小的子数组                           | 中等 |                |
-| [95](https://www.yuweihung.com/posts/2025/lc-0139/)    | LC0139           | 单词拆分                                   | 中等 |                |
-| [96](https://www.yuweihung.com/posts/2025/lc-0083/)    | LC0083           | 删除排序链表中的重复元素                   | 简单 |                |
-| [97](https://www.yuweihung.com/posts/2025/lc-0226/)    | LC0226           | 翻转二叉树                                 | 简单 |                |
-| [98](https://www.yuweihung.com/posts/2025/lc-0024/)    | LC0024           | 两两交换链表中的节点                       | 中等 |                |
-| [99](https://www.yuweihung.com/posts/2025/lc-0283/)    | LC0283           | 移动零                                     | 简单 |                |
-| [100](https://www.yuweihung.com/posts/2025/lc-0912-2/) | LC0912           | 手撕堆排序                                 | 中等 |                |
+| [92](https://www.yuweihung.com/posts/2025/lc-0169/)    | LC0169           | 多数元素                                   | 简单 | 摩尔投票法     |
+| [93](https://www.yuweihung.com/posts/2025/lc-0718/)    | LC0718           | 最长重复子数组                             | 中等 | 动态规划       |
+| [94](https://www.yuweihung.com/posts/2025/lc-0209/)    | LC0209           | 长度最小的子数组                           | 中等 | 滑动窗口       |
+| [95](https://www.yuweihung.com/posts/2025/lc-0139/)    | LC0139           | 单词拆分                                   | 中等 | 动态规划       |
+| [96](https://www.yuweihung.com/posts/2025/lc-0083/)    | LC0083           | 删除排序链表中的重复元素                   | 简单 | 链表           |
+| [97](https://www.yuweihung.com/posts/2025/lc-0226/)    | LC0226           | 翻转二叉树                                 | 简单 | 二叉树         |
+| [98](https://www.yuweihung.com/posts/2025/lc-0024/)    | LC0024           | 两两交换链表中的节点                       | 中等 | 链表           |
+| [99](https://www.yuweihung.com/posts/2025/lc-0283/)    | LC0283           | 移动零                                     | 简单 | 栈             |
+| [100](https://www.yuweihung.com/posts/2025/lc-0912-2/) | LC0912           | 手撕堆排序                                 | 中等 | 堆排序         |
 | [101](https://www.yuweihung.com/posts/2025/lc-0468/)   | LC0468           | 验证 IP 地址                               | 中等 |                |
 | [102](https://www.yuweihung.com/posts/2025/lc-0739/)   | LC0739           | 每日温度                                   | 中等 |                |
 | [103](https://www.yuweihung.com/posts/2025/lc-0297/)   | LC0297           | 二叉树的序列化与反序列化                   | 困难 |                |
