@@ -113,10 +113,10 @@ LeetCode 高频面试题汇总。
 | [98](https://www.yuweihung.com/posts/2025/lc-0024/)    | LC0024           | 两两交换链表中的节点                        | 中等 | 链表           |
 | [99](https://www.yuweihung.com/posts/2025/lc-0283/)    | LC0283           | 移动零                                      | 简单 | 栈             |
 | [100](https://www.yuweihung.com/posts/2025/lc-0912-2/) | LC0912           | 手撕堆排序                                  | 中等 | 堆排序         |
-| [101](https://www.yuweihung.com/posts/2025/lc-0468/)   | LC0468           | 验证 IP 地址                                | 中等 |                |
-| [102](https://www.yuweihung.com/posts/2025/lc-0739/)   | LC0739           | 每日温度                                    | 中等 |                |
+| [101](https://www.yuweihung.com/posts/2025/lc-0468/)   | LC0468           | 验证 IP 地址                                | 中等 | 字符串         |
+| [102](https://www.yuweihung.com/posts/2025/lc-0739/)   | LC0739           | 每日温度                                    | 中等 | 单调栈         |
 | [103](https://www.yuweihung.com/posts/2025/lc-0297/)   | LC0297           | 二叉树的序列化与反序列化                    | 困难 |                |
-| [104](https://www.yuweihung.com/posts/2025/lc-0138/)   | LC0138           | 复制带随机指针的链表                        | 中等 |                |
+| [104](https://www.yuweihung.com/posts/2025/lc-0138/)   | LC0138           | 复制带随机指针的链表                        | 中等 | 链表           |
 | [105](https://www.yuweihung.com/posts/2025/lc-0224/)   | LC0224           | 基本计算器                                  | 困难 |                |
 | [106](https://www.yuweihung.com/posts/2025/lc-0153/)   | LC0153           | 寻找旋转排序数组中的最小值                  | 中等 |                |
 | [107](https://www.yuweihung.com/posts/2025/lc-0207/)   | LC0207           | 课程表                                      | 中等 |                |
