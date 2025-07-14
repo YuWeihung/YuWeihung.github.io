@@ -115,14 +115,14 @@ LeetCode 高频面试题汇总。
 | [100](https://www.yuweihung.com/posts/2025/lc-0912-2/) | LC0912           | 手撕堆排序                                  | 中等 | 堆排序         |
 | [101](https://www.yuweihung.com/posts/2025/lc-0468/)   | LC0468           | 验证 IP 地址                                | 中等 | 字符串         |
 | [102](https://www.yuweihung.com/posts/2025/lc-0739/)   | LC0739           | 每日温度                                    | 中等 | 单调栈         |
-| [103](https://www.yuweihung.com/posts/2025/lc-0297/)   | LC0297           | 二叉树的序列化与反序列化                    | 困难 |                |
+| [103](https://www.yuweihung.com/posts/2025/lc-0297/)   | LC0297           | 二叉树的序列化与反序列化                    | 困难 | 二叉树         |
 | [104](https://www.yuweihung.com/posts/2025/lc-0138/)   | LC0138           | 复制带随机指针的链表                        | 中等 | 链表           |
-| [105](https://www.yuweihung.com/posts/2025/lc-0224/)   | LC0224           | 基本计算器                                  | 困难 |                |
-| [106](https://www.yuweihung.com/posts/2025/lc-0153/)   | LC0153           | 寻找旋转排序数组中的最小值                  | 中等 |                |
-| [107](https://www.yuweihung.com/posts/2025/lc-0207/)   | LC0207           | 课程表                                      | 中等 |                |
-| [108](https://www.yuweihung.com/posts/2025/lc-0460/)   | LC0460           | LFU 缓存                                    | 困难 |                |
-| [109](https://www.yuweihung.com/posts/2025/lc-0079/)   | LC0079           | 单词搜索                                    | 中等 |                |
-| [110](https://www.yuweihung.com/posts/2025/lc-0402/)   | LC0402           | 移掉 K 位数字                               | 中等 |                |
+| [105](https://www.yuweihung.com/posts/2025/lc-0224/)   | LC0224           | 基本计算器                                  | 困难 | 栈             |
+| [106](https://www.yuweihung.com/posts/2025/lc-0153/)   | LC0153           | 寻找旋转排序数组中的最小值                  | 中等 | 二分查找       |
+| [107](https://www.yuweihung.com/posts/2025/lc-0207/)   | LC0207           | 课程表                                      | 中等 | 拓扑排序       |
+| [108](https://www.yuweihung.com/posts/2025/lc-0460/)   | LC0460           | LFU 缓存                                    | 困难 | 链表           |
+| [109](https://www.yuweihung.com/posts/2025/lc-0079/)   | LC0079           | 单词搜索                                    | 中等 | 回溯           |
+| [110](https://www.yuweihung.com/posts/2025/lc-0402/)   | LC0402           | 移掉 K 位数字                               | 中等 | 单调栈         |
 | [111](https://www.yuweihung.com/posts/2025/lc-0047/)   | LC0047           | 全排列 II                                   | 中等 |                |
 | [112](https://www.yuweihung.com/posts/2025/lc-0136/)   | LC0136           | 只出现一次的数字                            | 简单 |                |
 | [113](https://www.yuweihung.com/posts/2025/lc-0011/)   | LC0011           | 盛最多水的容器                              | 中等 |                |
