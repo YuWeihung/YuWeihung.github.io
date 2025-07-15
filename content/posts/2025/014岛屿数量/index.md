@@ -13,6 +13,8 @@ https://leetcode.cn/problems/number-of-islands/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题是一道图论 DFS 的题目。初始图中的陆地为 1，水为 0。当我们遍历陆地的时候，将遍历过的陆地改为 2，以防止重复访问。
 
 遍历整张图，如果发现 grid[i][j] == 1，说明这是一块没被访问过的岛屿，dfs(i, j)，岛屿数量加一。

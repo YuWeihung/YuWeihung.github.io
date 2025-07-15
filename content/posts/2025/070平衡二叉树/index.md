@@ -13,6 +13,8 @@ https://leetcode.cn/problems/balanced-binary-tree/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 这道题对 LeetCode 104 二叉树的最大深度 稍加改造，当求出左右子树的深度时，如果深度差超过 1，则返回 -1，父节点如果接收到 -1，也直接返回 -1，否则返回当前子树的深度。最后判断根节点得到的深度是否为 -1。
 
 时间复杂度：O(n)，其中 n 为二叉树的节点个数。

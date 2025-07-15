@@ -13,6 +13,8 @@ https://leetcode.cn/problems/remove-k-digits/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题需要尽量保证前面的数字最小，这可以使用单调栈来实现。
 
 我们定义一个单调栈，遍历整个数字，当 k > 0 时，对于当前数字，判断是否小于栈顶，否则弹出栈顶元素。这样最后从栈底到栈顶单调不减。

@@ -13,6 +13,8 @@ https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/descriptio
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 这道题类似 LeetCode 102，只是需要判断当前层的奇偶性，如果是偶数，需要把当前层的结果翻转后再加入答案。
 
 时间复杂度：O(n)，其中 n 为二叉树的节点个数。

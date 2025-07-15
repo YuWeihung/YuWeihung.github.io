@@ -13,6 +13,8 @@ https://leetcode.cn/problems/reverse-nodes-in-k-group/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 反转一组节点的代码与 LeetCode 206 类似，每次修改一个节点的 next。
 
 ```cpp

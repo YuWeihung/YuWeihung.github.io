@@ -13,6 +13,8 @@ https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-tra
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题使用递归从二叉树的前序和中序遍历构造二叉树。首先找到中序遍历中根节点的位置，它左边就是左子树的长度。然后构造左右子树的前序和中序遍历，递归调用，构造二叉树。
 
 时间复杂度：\(O(n^2)\)，其中 n 为 preorder 的长度。最坏情况下二叉树是一条链，我们需要递归 O(n) 次，每次都需要 O(n) 的时间查找 preorder[0] 和复制数组。

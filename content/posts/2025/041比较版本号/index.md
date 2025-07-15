@@ -13,6 +13,8 @@ https://leetcode.cn/problems/compare-version-numbers/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 使用两个指针，遍历两个字符串，直到找到'.'，将每一段的版本号转换为整数，比较两个整数是否相等。整数初始化为 0，以处理这一段版本号缺失的情况。
 
 时间复杂度：O(n+m)，其中 m 是字符串 version1 的长度，n 是字符串 version2 的长度。

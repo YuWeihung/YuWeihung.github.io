@@ -13,6 +13,8 @@ https://leetcode.cn/problems/reverse-linked-list/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题有迭代和递归两种解法，迭代法更易理解，且空间复杂度更优。
 
 <!--more-->

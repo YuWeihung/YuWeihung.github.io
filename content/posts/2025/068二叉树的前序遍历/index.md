@@ -13,6 +13,8 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 递归求二叉树的前序遍历。
 
 时间复杂度：O(n)，其中 n 是二叉树的节点数。每一个节点恰好被遍历一次。

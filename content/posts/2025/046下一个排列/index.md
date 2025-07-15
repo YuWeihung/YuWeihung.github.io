@@ -13,6 +13,8 @@ https://leetcode.cn/problems/next-permutation/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 1. 从右向左，找第一个小于右侧相邻数字的数 x
 2. 找 x 右边最小的大于 x 的数 y，交换 x 和 y
 3. 反转 y 右边的数，把右边的数变成最小的排列

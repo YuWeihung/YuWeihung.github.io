@@ -13,6 +13,8 @@ https://leetcode.cn/problems/add-strings/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题为高精度加法。使用两个指针倒序遍历 num1 和 num2，最后处理有进位的情况。将 ans 反转后就是答案。
 
 时间复杂度：O(max(m, n))。

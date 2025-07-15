@@ -13,6 +13,8 @@ https://leetcode.cn/problems/subarray-sum-equals-k/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题是前缀和题目。需要注意只有满足单调性的时候才能使用滑动窗口。
 
 s 为前缀和，如果 i 到 j 的和为 k，那么 s[j] - s[i] == k。

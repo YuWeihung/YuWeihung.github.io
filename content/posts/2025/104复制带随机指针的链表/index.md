@@ -13,6 +13,8 @@ https://leetcode.cn/problems/copy-list-with-random-pointer/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 简单的做法是直接用一个哈希表把两个链表中节点的对应关系存起来，在二次遍历的时候设置新链表的 next 和 random。
 
 此外，我们可以把新链表和旧链表混在一起。依次复制每个节点（创建新节点并复制 val 和 next），把新节点直接插到原节点的后面，形成一个交错链表。如此一来，原链表节点的下一个节点，就是其对应的新链表节点了！

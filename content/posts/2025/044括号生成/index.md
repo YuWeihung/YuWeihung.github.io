@@ -13,6 +13,8 @@ https://leetcode.cn/problems/generate-parentheses/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 选或不选。选就是左括号，不选就是右括号。左右括号的数量需要有约束，open 是左括号的数量。open < n 限制左括号至多填 n 个，i - open < open 限制右括号至多填 open 个。
 
 时间复杂度：分析回溯问题的时间复杂度，有一个通用公式：路径长度 × 搜索树的叶子数。对于本题，它等于 O(n⋅C(2n,n))。但由于左右括号的约束，实际上没有这么多叶子，根据 Catalan 数，实际的时间复杂度为 O(C(2n,n))。

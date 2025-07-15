@@ -13,6 +13,8 @@ https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 买卖股票类题目一般都是状态机 DP。f[i][0] 不持有股票，f[i][1] 持有股票。答案是 f[n][0]。初始化 f[0][0] = 0，f[0][1] = INT_MIN。
 
 注意二维的 DP 数组，vector<int[2]> f(n + 1) 会比 vector<vector<int>> 更快，如果数组长度固定，尽量使用 array 而不是 vector。

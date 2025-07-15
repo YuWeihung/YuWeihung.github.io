@@ -13,6 +13,8 @@ https://leetcode.cn/problems/sort-list/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题使用归并排序。
 
 1. 找到链表的中间结点 head 2 的前一个节点，并断开 head2 与其前一个节点的连接。这样我们就把原链表均分成了两段更短的链表。

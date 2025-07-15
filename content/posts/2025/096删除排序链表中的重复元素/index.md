@@ -13,6 +13,8 @@ https://leetcode.cn/problems/remove-duplicates-from-sorted-list/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 判断下个节点，与当前节点相同就删除。
 
 时间复杂度：O(n)，其中 n 为链表的长度。

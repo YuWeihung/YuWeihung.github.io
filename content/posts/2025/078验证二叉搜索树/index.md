@@ -13,6 +13,8 @@ https://leetcode.cn/problems/validate-binary-search-tree/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 使用中序遍历验证二叉搜索树，比较当前节点与上一个节点的值的大小。需要注意的是，为了处理节点值为 INT_MIN 的情况，pre 需要初始化为 LLONG_MIN。
 
 时间复杂度：O(n)，其中 n 为二叉搜索树的节点个数。

@@ -13,6 +13,8 @@ https://leetcode.cn/problems/diameter-of-binary-tree/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 树形 DP 中的直径 DP。
 
 链：从子树中的叶子节点到当前节点的路径。把最长链的长度，作为 dfs 的返回值。根据这一定义，空节点的链长是 −1，叶子节点的链长是 0。

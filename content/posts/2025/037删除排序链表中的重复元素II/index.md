@@ -13,6 +13,8 @@ https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题需要删除链表中所有重复数字的节点，只留下不同的数字。为了删除节点，cur 需要在要被删除的节点前面，因此比较 cur->next 和 cur->next->next 的节点值是否相同，如果相同，通过循环将所有等于这个值的节点都删除。否则，更新 cur 到下一个节点。
 
 时间复杂度：O(n)，其中 n 为链表的长度。

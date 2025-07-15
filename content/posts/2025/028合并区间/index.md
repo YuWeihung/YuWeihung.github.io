@@ -13,6 +13,8 @@ https://leetcode.cn/problems/merge-intervals/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 首先将数组按照左端点进行排序，然后如果当前区间左端点 <= 答案中最后一个合并区间的右端点，更新答案区间右端点为两者较大值；反之将当前区间加入答案。
 
 时间复杂度：O(nlogn)，其中 n 是 intervals 的长度。瓶颈在排序上。

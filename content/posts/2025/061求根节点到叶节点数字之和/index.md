@@ -13,6 +13,8 @@ https://leetcode.cn/problems/sum-root-to-leaf-numbers/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 使用参数记录路径之和，当当前节点为叶子节点时更新答案，并处理节点为空的情况。
 
 时间复杂度：O(n)，其中 n 为二叉树的节点个数。

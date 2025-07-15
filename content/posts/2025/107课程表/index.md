@@ -13,6 +13,8 @@ https://leetcode.cn/problems/course-schedule/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 三色标记法找环。
 
 对于每个节点 x，都定义三种颜色值：

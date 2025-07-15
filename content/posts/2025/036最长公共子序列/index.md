@@ -13,6 +13,8 @@ https://leetcode.cn/problems/longest-common-subsequence/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 LCS 线性 DP 问题，状态转移方程如下：
 
 ```cpp

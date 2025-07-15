@@ -13,6 +13,8 @@ https://leetcode.cn/problems/longest-common-prefix/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 1. 从左到右遍历 strs 的每一列。
 2. 设当前遍历到第 j 列，从上到下遍历这一列的字母。
 3. 设当前遍历到第 i 行，即 strs[i][j]。如果 j 等于 strs[i] 的长度，或者 strs[i][j] != strs[0][j]，说明这一列的字母缺失或者不全一样，那么最长公共前缀的长度等于 j，返回 strs[0] 的长为 j 的前缀。

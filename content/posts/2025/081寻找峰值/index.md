@@ -13,6 +13,8 @@ https://leetcode.cn/problems/find-peak-element/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 如果 nums[mid] > nums[mid + 1]，说明 mid 要么就是峰值，要么在峰值的右侧，染成蓝色，否则 mid 在峰值的左侧，染成红色。
 
 二分开区间为 (-1, n - 1)。因为 n - 1 一定满足条件，是蓝色。

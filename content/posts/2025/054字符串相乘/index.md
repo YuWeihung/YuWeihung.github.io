@@ -13,6 +13,8 @@ https://leetcode.cn/problems/multiply-strings/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 高精度乘法，模拟竖式计算。
 
 为了方便处理进位，先用一个倒序的 int 类型数组来存储计算结果，最后再将结果转回字符串。

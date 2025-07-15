@@ -13,6 +13,8 @@ https://leetcode.cn/problems/merge-k-sorted-lists/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题是最小堆的题目。首先将 k 个链表的头节点加入堆，每次在链表中插入堆顶元素，再把堆顶元素的下一个元素入堆。
 
 需要注意的是最小堆的声明方式。a > b（greater）是最小堆，a < b（less） 是最大堆。STL 的优先队列默认是最大堆。

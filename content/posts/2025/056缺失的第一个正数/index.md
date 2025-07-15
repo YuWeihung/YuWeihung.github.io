@@ -13,6 +13,8 @@ https://leetcode.cn/problems/first-missing-positive/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 灵神题解：https://leetcode.cn/problems/first-missing-positive/solutions/3655377/huan-zuo-wei-tong-guo-li-zi-li-jie-suan-qa94e/
 
 一般地，为了兼容「当前学生是真身，坐在正确的座位上」和「当前学生是影分身，且其真身坐在正确的座位上」两种情况，我们可以把 i=nums[i] 套一层 nums，用 nums[i]=nums[nums[i]] 判断。

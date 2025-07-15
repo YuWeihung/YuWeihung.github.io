@@ -8,6 +8,7 @@ tags: ["栈"]
 ---
 
 LeetCode 20
+
 https://leetcode.cn/problems/valid-parentheses/description/
 
 难度：中等

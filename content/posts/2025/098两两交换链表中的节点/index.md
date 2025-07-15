@@ -13,6 +13,8 @@ https://leetcode.cn/problems/swap-nodes-in-pairs/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 K 个一组反转链表的简单版本。
 
 时间复杂度：O(n)，其中 n 为链表长度。

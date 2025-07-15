@@ -13,6 +13,8 @@ https://leetcode.cn/problems/string-to-integer-atoi/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题是一道比较麻烦的模拟。
 
 1. 跳过前导空格。

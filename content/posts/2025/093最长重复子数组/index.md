@@ -13,6 +13,8 @@ https://leetcode.cn/problems/maximum-length-of-repeated-subarray/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 类似最长公共子序列，这题是求连续子数组。定义 f[i+1][j+1] 表示以 nums1[i] 结尾的子数组和以 nums2[j] 结尾的子数组的最长公共子数组的长度。
 
 如果 nums1[i] != nums2[j]，那么 f[i+1][j+1]=0。

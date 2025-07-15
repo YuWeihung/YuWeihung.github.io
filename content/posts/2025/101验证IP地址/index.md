@@ -13,6 +13,8 @@ https://leetcode.cn/problems/validate-ip-address/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 模拟题。
 
 我们首先查找给定的字符串 queryIP 中是否包含符号 ‘.’。如果包含，那么我们需要判断其是否为 IPv4 地址；如果不包含，我们则判断其是否为 IPv6 地址。

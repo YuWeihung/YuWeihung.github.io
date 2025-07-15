@@ -13,6 +13,8 @@ https://leetcode.cn/problems/largest-number/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 要得到最大数，在开头数值不同时，需要把数值大的数排在前面，那么对于有相同数字开头时，应该怎么排序呢？
 
 只需要把两个数字转成字符串并拼接起来，看哪个前后顺序更大。

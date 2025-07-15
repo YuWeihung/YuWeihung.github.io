@@ -13,6 +13,8 @@ https://leetcode.cn/problems/implement-queue-using-stacks/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 用两个栈，输入栈和输出栈来模拟队列。push 时将输入压进输入栈。pop 时，如果输出栈为空，将输出栈的元素全部压入输出栈，这时输出栈的顺序就是输入的顺序。返回输出栈栈顶元素。
 
 时间复杂度：push 和 empty 为 O(1)，pop 和 peek 为均摊 O(1)。对于每个元素，至多入栈和出栈各两次，故均摊复杂度为 O(1)。

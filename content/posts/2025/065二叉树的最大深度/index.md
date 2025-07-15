@@ -13,6 +13,8 @@ https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 递归求最大深度。
 
 时间复杂度：O(n)，其中 n 为二叉树的节点个数。

@@ -13,6 +13,8 @@ https://leetcode.cn/problems/merge-sorted-array/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题最简单的思路是使用额外的空间存储，最后复制回 nums1。那么有没有什么方案可以避免额外空间？答案是使用逆向双指针算法。从最后一个元素开始，将结果赋值到 nums1。这样可以避免 nums1 中元素被覆盖的问题。
 
 时间复杂度：O(m+n)。

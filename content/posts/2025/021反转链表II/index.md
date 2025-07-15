@@ -13,6 +13,8 @@ https://leetcode.cn/problems/reverse-linked-list-ii/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 这道题需要翻转中间一段链表。我们定义这段链表的前一个节点为 p0。翻转结束之后，需要修改 p0->next->next = cur, p0->next = pre。
 
 时间复杂度：O(right)。

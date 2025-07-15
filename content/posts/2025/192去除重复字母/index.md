@@ -1,6 +1,6 @@
 ---
 title: "192去除重复字母"
-date: 2025-07-13T12:38:29+08:00
+date: 2025-07-15T19:03:53+08:00
 draft: false
 slug: "lc-0"
 categories: ["高频面试题"]
@@ -10,6 +10,8 @@ tags: ["",""]
 LeetCode
 
 难度：
+
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
 
 <!--more-->
 

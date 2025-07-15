@@ -13,6 +13,8 @@ https://leetcode.cn/problems/maximum-subarray/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题有两种做法，分别是前缀和以及动态规划。
 
 前缀和的做法为维护最小前缀和，答案为当前前缀和减去最小前缀和。

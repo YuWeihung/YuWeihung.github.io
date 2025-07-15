@@ -13,6 +13,8 @@ https://leetcode.cn/problems/longest-consecutive-sequence/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 对于 nums 中的元素 x，以 x 为起点，不断查找下一个数 x+1,x+2,⋯ 是否在 nums 中，并统计序列的长度。
 
 为了做到 O(n) 的时间复杂度，需要两个关键优化：

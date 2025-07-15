@@ -13,6 +13,8 @@ https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 前后指针，右节点先走 n 步，然后左右节点同时走。当右节点走到最后一个节点的时候，左节点就在删除节点的前一个节点。为了处理删除第一个节点的情况，设置 dummy 节点。
 
 时间复杂度：O(m)，其中 m 为链表的长度。

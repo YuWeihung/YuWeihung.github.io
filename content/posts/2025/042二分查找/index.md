@@ -13,6 +13,8 @@ https://leetcode.cn/problems/binary-search/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 红蓝染色法，开区间二分。满足条件 nums[mid] >= target 更新 right = mid。更新什么什么就是答案，本题 right 就是答案。
 
 时间复杂度：O(logn)，其中 n 为 nums 的长度。

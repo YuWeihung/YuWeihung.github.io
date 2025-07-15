@@ -13,6 +13,8 @@ https://leetcode.cn/problems/two-sum/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 LeetCode 第一题，哈希表的应用。
 
 时间复杂度：O(n)，其中 n 为 nums 的长度。

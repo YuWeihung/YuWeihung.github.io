@@ -13,6 +13,8 @@ https://leetcode.cn/problems/merge-two-sorted-lists/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 每次将 list1 和 list2 中较小值作为下一个节点，最后将剩余节点接在后面。
 
 时间复杂度：O(n+m)，其中 n 为 list 1 的长度，m 为 list 2 的长度。

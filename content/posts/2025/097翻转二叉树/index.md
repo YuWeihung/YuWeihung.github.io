@@ -13,6 +13,8 @@ https://leetcode.cn/problems/invert-binary-tree/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 递归调用 invertTree(root.left)，获取到左子树翻转后的结果 left。
 
 递归调用 invertTree(root.right)，获取到右子树翻转后的结果 right。

@@ -13,6 +13,8 @@ https://leetcode.cn/problems/reorder-list/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 这道题目需要先找到链表的中间节点 LeetCode 876，然后反转后半部分的链表 LeetCode 206。
 
 head 指向前半部分头节点，head2 指向后半部分的头节点。每次更新 head->next = head2, head2->next = nxt。

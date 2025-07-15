@@ -13,6 +13,8 @@ https://leetcode.cn/problems/search-in-rotated-sorted-array/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题是二分查找的应用，使用红蓝染色法。如果 mid 就是 target 或者在 target 右侧，染为蓝色，如果在 target 左侧，染为红色。
 
 如果数组被旋转了，那么分为左右两段，左边一段的元素大于最后一个元素。

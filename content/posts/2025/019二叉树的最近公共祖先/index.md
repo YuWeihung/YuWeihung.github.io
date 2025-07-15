@@ -13,6 +13,8 @@ https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/description
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 二叉树题目。如果当前节点为空，或者为 p，或者为 q，直接返回当前节点。
 
 如果左右子树都找到 p 或 q，返回当前节点。

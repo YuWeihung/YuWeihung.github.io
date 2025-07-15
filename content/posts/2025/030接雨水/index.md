@@ -13,6 +13,8 @@ https://leetcode.cn/problems/trapping-rain-water/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题为常考的 Hard 题目，有多种做法，分别是前后缀分解，相向双指针和单调栈。本文使用单调栈方法。单调栈的做法相当于「横着」计算面积。
 
 这个方法可以总结成 16 个字：找上一个更大元素，在找的过程中填坑。

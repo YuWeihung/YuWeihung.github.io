@@ -13,6 +13,8 @@ https://leetcode.cn/problems/lru-cache/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题是双向链表和哈希表的经典题目。每个节点有 key，value，还有两个指针 prev 和 next 分别指向前一个和下一个节点。
 
 此外，链表中还包含一个 dummy 节点，让每个节点的 prev 和 next 都不为空。

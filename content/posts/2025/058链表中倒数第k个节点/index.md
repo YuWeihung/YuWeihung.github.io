@@ -13,6 +13,8 @@ https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/descri
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 前后指针找链表倒数第 k 个节点。
 
 时间复杂度：O(n)，其中 n 为链表的长度。我们使用快慢指针，只需要一次遍历即可，复杂度为 O(n)。

@@ -13,6 +13,8 @@ https://leetcode.cn/problems/majority-element/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 Boyer-Moore 投票算法
 
 - 我们维护一个候选众数 candidate 和它出现的次数 count。初始时 candidate 可以为任意值，count 为 0；

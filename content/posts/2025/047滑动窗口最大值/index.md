@@ -13,6 +13,8 @@ https://leetcode.cn/problems/sliding-window-maximum/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 这道题是单调队列。单调队列是一个双端队列，类似单调栈，但需要把超过窗口的元素移除。队首元素就是窗口内的最大值。
 
 1. 右边入（元素进入队尾，同时维护队列单调性）

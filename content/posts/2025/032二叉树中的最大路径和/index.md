@@ -13,6 +13,8 @@ https://leetcode.cn/problems/binary-tree-maximum-path-sum/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 这道题是树形 DP 中的直径 DP。枚举直径拐弯的位置，在每一个拐弯的位置更新答案，将以当前节点为根的链的最大路径和返回给父节点，如果路径和为负数返回 0。
 
 边界条件是空节点的路径和为 0。

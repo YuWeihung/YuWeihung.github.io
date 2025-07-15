@@ -13,6 +13,8 @@ https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题可以使用前序遍历或者层序遍历，这里使用层序遍历。
 
 在序列化时需要注意空节点也需要保存。在反序列化时，为了分割字符串，使用了 stringstream。

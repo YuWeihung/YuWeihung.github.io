@@ -13,6 +13,8 @@ https://leetcode.cn/problems/maximal-square/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 二维 DP，状态转移方程如下，并在计算 f 数组的时候维护正方形边长的最大值。
 
 ```cpp

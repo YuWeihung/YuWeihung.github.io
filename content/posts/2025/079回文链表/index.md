@@ -13,6 +13,8 @@ https://leetcode.cn/problems/palindrome-linked-list/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题需要用到两个知识点，寻找链表的中间节点和反转链表。
 
 首先找到链表的中间节点，然后反转链表的后半段。最后，同时遍历这两段链表，判断值是否相等。

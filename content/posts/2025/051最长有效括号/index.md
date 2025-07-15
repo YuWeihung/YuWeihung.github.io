@@ -13,6 +13,8 @@ https://leetcode.cn/problems/longest-valid-parentheses/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题是一道一维 DP 的题目。f[i] 表示以 i 结尾的最长有效括号的长度。由于有效括号只会以 ')' 结尾，所以只在当前字符为 ')' 时的状态转移。
 
 当前一个字符为 '(' 时，转移到 f[i] = f[i - 2] + 2。

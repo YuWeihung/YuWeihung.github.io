@@ -13,6 +13,8 @@ https://leetcode.cn/problems/combination-sum/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 子集型回溯，选或不选。
 
 类似完全背包，选的话递归到 dfs(i, left - candidates[i])，不选递归到 dfs(i + 1, left)。

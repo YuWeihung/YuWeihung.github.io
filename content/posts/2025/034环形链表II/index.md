@@ -13,6 +13,8 @@ https://leetcode.cn/problems/linked-list-cycle-ii/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 环形链表 II，比环形链表 I 多了需要找到入环节点。
 
 设头节点到入环口需要走 a 步，环长为 c。快慢指针相遇时，慢指针走了 b 步，快指针走了 2b 步。设快指针比慢指针多走了 k 圈，即 2b - b = kc，得 b = kc。

@@ -13,6 +13,8 @@ https://leetcode.cn/problems/minimum-window-substring/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 这是滑动窗口的题目。s 覆盖 t 的意思就是对 t 中的每个字母，s 里的出现次数都不小于 t 里的出现次数。出现次数使用哈希表来计数，在本题可以使用数组来进行优化。
 
 时间复杂度：O(∣Σ∣m+n)，其中 m 为 s 的长度，n 为 t 的长度，∣Σ∣ 为字符集合的大小，本题字符均为英文字母，所以 ∣Σ∣=52。注意 left 只会增加不会减少，left 每增加一次，我们就花费 O(∣Σ∣) 的时间。因为 left 至多增加 m 次，所以二重循环的时间复杂度为 O(∣Σ∣m)，再算上统计 t 字母出现次数的时间 O(n)，总的时间复杂度为 O(∣Σ∣m+n)。

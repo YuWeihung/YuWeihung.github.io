@@ -13,6 +13,8 @@ https://leetcode.cn/problems/add-two-numbers/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 递归处理两个链表相加。
 
 时间复杂度：O(n)，其中 n 为 l1 长度和 l2 长度的最大值。

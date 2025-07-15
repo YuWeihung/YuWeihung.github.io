@@ -13,6 +13,8 @@ https://leetcode.cn/problems/linked-list-cycle/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 这道题目的做法是快慢指针。快指针每次走两步，慢指针每次走一步，如果快慢指针相等，说明链表有环。
 
 时间复杂度：O(n)，其中 n 为链表的长度。

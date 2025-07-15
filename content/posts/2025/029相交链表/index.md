@@ -13,6 +13,8 @@ https://leetcode.cn/problems/intersection-of-two-linked-lists/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 最简单的方法是使用哈希集合来记录访问过的节点。除此之外还有双指针的做法。
 
 > 我来到你的城市，走过你来时的路。

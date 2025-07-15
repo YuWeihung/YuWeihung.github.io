@@ -13,6 +13,8 @@ https://leetcode.cn/problems/longest-increasing-subsequence/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题求最长上升子序列（LIS）有两种做法，分别是动态规划和贪心。
 
 <!--more-->

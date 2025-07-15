@@ -13,6 +13,8 @@ https://leetcode.cn/problems/word-search/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 网格图回溯。为了知道当前匹配到了第几个字母，需要三个参数 dfs(i, j, k)。
 
 定义 dfs(i,j,k) 表示当前在 board[i][j] 这个格子，要匹配 word[k]，返回在这个状态下最终能否匹配成功（搜索成功）。

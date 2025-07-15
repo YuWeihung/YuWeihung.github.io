@@ -13,6 +13,8 @@ https://leetcode.cn/problems/binary-tree-right-side-view/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 先递归右子树，再递归左子树，当某个深度首次到达时，对应的节点就在右视图中。
 
 时间复杂度：O(n)，其中 n 是二叉树的节点个数。

@@ -13,6 +13,8 @@ https://leetcode.cn/problems/maximum-width-of-binary-tree/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 这道题类似二叉树层序遍历，但是除了要保留节点本身，还需要保留节点在本层的编号。对节点 i，左儿子为 2 \* i，右儿子为 2 \* i + 1。
 
 另外，由于最大 3000 个节点，如果是一条只有右儿子的链，那么编号会达到 \(2^3000\)，任何数据类型都会溢出，所以我们需要使用 unsigned long long 类型，当溢出后会重新回到 0，而不会报错。

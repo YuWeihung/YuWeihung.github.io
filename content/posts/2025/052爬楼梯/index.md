@@ -13,6 +13,8 @@ https://leetcode.cn/problems/climbing-stairs/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 斐波那契数列。f[i] = f[i - 1] + f[i - 2]。
 
 时间复杂度：O(n)。

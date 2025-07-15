@@ -13,6 +13,8 @@ https://leetcode.cn/problems/maximum-product-subarray/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 动态规划，类似 LeetCode 53 最大子数组和。由于负负得正，需要维护以 i 结尾的连续子数组乘积的最大值和最小值。
 
 ```cpp

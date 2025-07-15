@@ -13,6 +13,8 @@ https://leetcode.cn/problems/max-area-of-island/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 网格图 DFS，类似 LeetCode 200 岛屿数量，增加一个当前岛屿面积的计算。
 
 时间复杂度：O(mn)，其中 m 和 n 分别为 grid 的行数和列数。

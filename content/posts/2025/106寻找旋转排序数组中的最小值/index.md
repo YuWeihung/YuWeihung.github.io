@@ -13,6 +13,8 @@ https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 二分查找，与最后一个数比大小。如果 mid 比 nums[n - 1] 小，一定是蓝色（是最小值或最小值右边），反之是红色（最小值左边）， 最后 right 就是答案。
 
 时间复杂度：O(logn)，其中 n 为 nums 的长度。

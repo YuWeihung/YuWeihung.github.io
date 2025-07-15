@@ -13,6 +13,8 @@ https://leetcode.cn/problems/path-sum/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 直接递归调用 hasPathSum，当前节点为叶子节点时判断是否存在路径。
 
 时间复杂度：O(n)，其中 n 为二叉树的节点个数。

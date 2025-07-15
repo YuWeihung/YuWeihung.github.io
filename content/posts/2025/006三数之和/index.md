@@ -13,6 +13,8 @@ https://leetcode.cn/problems/3sum/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 首先，由于输出的顺序不重要，可以先将数组进行排序。然后，枚举第一个数，转化为两数之和 II（LeetCode 142）。为了排除重复答案，如果 i，j，k 与上一个元素相同，需要去重。
 
 时间复杂度：O(\(n^ 2\))，其中 n 为 nums 的长度。排序 O(nlogn)。外层循环枚举第一个数，就变成 167. 两数之和 II - 输入有序数组 了，做法是 O(n) 双指针。所以总的时间复杂度为 O(\(n^ 2\))。

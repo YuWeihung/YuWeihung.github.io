@@ -13,6 +13,8 @@ https://leetcode.cn/problems/coin-change/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 完全背包题目。与 0-1 背包的不同是转移方程中右边的 i 变成 i + 1，说明可以重复取同一个元素。
 
 ```cpp

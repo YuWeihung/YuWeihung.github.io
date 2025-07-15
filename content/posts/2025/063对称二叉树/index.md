@@ -13,6 +13,8 @@ https://leetcode.cn/problems/symmetric-tree/description/
 
 难度：简单
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 与 LeetCode 100 相同的树 类似，这个比较 p 的左子树和 q 和右子树。
 
 时间复杂度：O(n)，其中 n 为二叉树的节点个数。

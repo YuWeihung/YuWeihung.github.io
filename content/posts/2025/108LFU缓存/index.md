@@ -13,6 +13,8 @@ https://leetcode.cn/problems/lfu-cache/description/
 
 难度：困难
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 本题是 LRU 缓存的升级版。本题对于每个使用频率，都需要维护一个双向链表，并通过哈希表把频率和链表关联起来。为了找到最少的使用频率，需要维护一个 min_freq 变量。
 
 在插入时需要插入到链表的头部，而当容量满，需要删除时需要删除的是最少使用频率的书中的尾部结点 dummy->prev。

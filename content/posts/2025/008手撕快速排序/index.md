@@ -13,6 +13,8 @@ https://leetcode.cn/problems/sort-an-array/description/
 
 难度：中等。
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 需要注意的是，初始化 i = l - 1，j = r + 1，方便在循环开始时直接进行 i++ 和 j--，递归时边界分别是 [l, j] 和 [j + 1, r]。
 
 时间复杂度：O(nlogn)

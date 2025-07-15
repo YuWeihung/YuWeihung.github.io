@@ -13,6 +13,8 @@ https://leetcode.cn/problems/word-break/description/
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 划分型 DP 一般定义 f[i] 表示长为 i 的前缀 a[:i] 能否划分。
 
 枚举最后一个子数组的左端点 L，从 f[L] 转移到 f[i]，并考虑 a[L:i] 是否满足要求。

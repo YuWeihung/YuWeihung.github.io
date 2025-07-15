@@ -13,6 +13,8 @@ https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-a
 
 难度：中等
 
+高频面试题汇总：https://www.yuweihung.com/posts/2025/lc-hot/
+
 二分查找。
 
 ```
