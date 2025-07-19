@@ -131,8 +131,8 @@ LeetCode 高频面试题汇总。
 | [116](https://www.yuweihung.com/posts/2025/lc-0061/)   | LC0061           | 旋转链表                                    | 中等 | 链表           |
 | [117](https://www.yuweihung.com/posts/2025/lc-0123/)   | LC0123           | 买卖股票的最佳时机 III                      | 困难 | 动态规划       |
 | [118](https://www.yuweihung.com/posts/2025/lc-0498/)   | LC0498           | 对角线遍历                                  | 中等 | 模拟           |
-| [119](https://www.yuweihung.com/posts/2025/lc-0958/)   | LC0958           | 二叉树的完全性检验                          | 中等 |                |
-| [120](https://www.yuweihung.com/posts/2025/lc-0055/)   | LC0055           | 跳跃游戏                                    | 中等 |                |
+| [119](https://www.yuweihung.com/posts/2025/lc-0958/)   | LC0958           | 二叉树的完全性检验                          | 中等 | 二叉树         |
+| [120](https://www.yuweihung.com/posts/2025/lc-0055/)   | LC0055           | 跳跃游戏                                    | 中等 | 贪心           |
 | [121]()                                                | 剑指 Offer 36    | 二叉搜索树与双向链表                        | 中等 |                |
 | [122](https://www.yuweihung.com/posts/2025/lc-0040/)   | LC0040           | 组合总和 II                                 | 中等 |                |
 | [123](https://www.yuweihung.com/posts/2025/lc-0016/)   | LC0016           | 最接近的三数之和                            | 中等 |                |
