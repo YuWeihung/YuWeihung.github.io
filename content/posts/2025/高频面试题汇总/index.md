@@ -133,12 +133,12 @@ LeetCode 高频面试题汇总。
 | [118](https://www.yuweihung.com/posts/2025/lc-0498/)   | LC0498           | 对角线遍历                                  | 中等 | 模拟           |
 | [119](https://www.yuweihung.com/posts/2025/lc-0958/)   | LC0958           | 二叉树的完全性检验                          | 中等 | 二叉树         |
 | [120](https://www.yuweihung.com/posts/2025/lc-0055/)   | LC0055           | 跳跃游戏                                    | 中等 | 贪心           |
-| [121]()                                                | 剑指 Offer 36    | 二叉搜索树与双向链表                        | 中等 |                |
-| [122](https://www.yuweihung.com/posts/2025/lc-0040/)   | LC0040           | 组合总和 II                                 | 中等 |                |
-| [123](https://www.yuweihung.com/posts/2025/lc-0016/)   | LC0016           | 最接近的三数之和                            | 中等 |                |
+| [121](https://www.yuweihung.com/posts/2025/lcr-0155/)  | 剑指 Offer 36    | 二叉搜索树与双向链表                        | 中等 | 二叉树         |
+| [122](https://www.yuweihung.com/posts/2025/lc-0040/)   | LC0040           | 组合总和 II                                 | 中等 | 回溯           |
+| [123](https://www.yuweihung.com/posts/2025/lc-0016/)   | LC0016           | 最接近的三数之和                            | 中等 | 双指针         |
 | [124](https://www.yuweihung.com/posts/2025/lc-0026/)   | LC0026           | 删除排序数组中的重复项                      | 简单 |                |
 | [125](https://www.yuweihung.com/posts/2025/lc-0074/)   | LC0074           | 搜索二维矩阵                                | 中等 |                |
-| [126]()                                                | 剑指 Offer 51    | 数组中的逆序对                              | 困难 |                |
+| [126](https://www.yuweihung.com/posts/2025/lcr-0170/)  | 剑指 Offer 51    | 数组中的逆序对                              | 困难 | 归并排序       |
 | [127](https://www.yuweihung.com/posts/2025/lc-0007/)   | LC0007           | 整数反转                                    | 简单 |                |
 | [128]()                                                | 补充题 23        | 检测循环依赖                                | 中等 |                |
 | [129]()                                                | 补充题 1         | 排序奇升偶降链表                            | 中等 |                |

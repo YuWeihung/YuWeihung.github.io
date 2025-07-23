@@ -42,7 +42,7 @@ public:
             } else if (j == r + 1) {
                 tmp[k] = nums[i];
                 i++;
-            } else if (nums[i] < nums[j]) {
+            } else if (nums[i] <= nums[j]) {
                 tmp[k] = nums[i];
                 i++;
             } else {
