@@ -16,7 +16,7 @@ LeetCode 高频面试题汇总。
 | [1](https://www.yuweihung.com/posts/2025/lc-0003/)      | LC0003           | 无重复字符的最长子串                        | 中等 | 滑动窗口       |
 | [2](https://www.yuweihung.com/posts/2025/lc-0146/)      | LC0146           | LRU 缓存机制                                | 中等 | 双向链表       |
 | [3](https://www.yuweihung.com/posts/2025/lc-0206/)      | LC0206           | 反转链表                                    | 简单 | 链表           |
-| [4](https://www.yuweihung.com/posts/2025/lc-0215/)      | LC0215           | 数组中的第 K 个最大元素                     | 中等 | 快速排序       |
+| [4](https://www.yuweihung.com/posts/2025/lc-0215/)      | LC0215           | 数组中的第 K 个最大元素                     | 中等 | 快速选择       |
 | [5](https://www.yuweihung.com/posts/2025/lc-0025/)      | LC0025           | K 个一组翻转链表                            | 困难 | 链表           |
 | [6](https://www.yuweihung.com/posts/2025/lc-0015/)      | LC0015           | 三数之和                                    | 中等 | 双指针         |
 | [7](https://www.yuweihung.com/posts/2025/lc-0053/)      | LC0053           | 最大子数组和                                | 中等 | 前缀和         |
@@ -143,16 +143,16 @@ LeetCode 高频面试题汇总。
 | [128](https://www.yuweihung.com/posts/2025/addtion-23/) | 补充题 23        | 检测循环依赖                                | 中等 | 拓扑排序       |
 | [129](https://www.yuweihung.com/posts/2025/addtion-01/) | 补充题 1         | 排序奇升偶降链表                            | 中等 | 链表           |
 | [130](https://www.yuweihung.com/posts/2025/lc-0114/)    | LC0114           | 二叉树展开为链表                            | 中等 | 二叉树         |
-| [131](https://www.yuweihung.com/posts/2025/lc-0059/)    | LC0059           | 螺旋矩阵 II                                 | 中等 |                |
-| [132](https://www.yuweihung.com/posts/2025/lc-0518/)    | LC0518           | 零钱兑换 II                                 | 中等 |                |
-| [133]()                                                 | 剑指 Offer 26    | 树的子结构                                  | 中等 |                |
-| [134](https://www.yuweihung.com/posts/2025/lc-0050/)    | LC0050           | Pow(x, n)                                   | 中等 |                |
-| [135](https://www.yuweihung.com/posts/2025/lc-0145/)    | LC0145           | 二叉树的后序遍历                            | 中等 |                |
-| [136](https://www.yuweihung.com/posts/2025/lc-0075/)    | LC0075           | 颜色分类                                    | 中等 |                |
-| [137](https://www.yuweihung.com/posts/2025/lc-0572/)    | LC0572           | 另一个树的子树                              | 简单 |                |
-| [138](https://www.yuweihung.com/posts/2025/lc-0440/)    | LC0440           | 字典序的第 K 小数字                         | 困难 |                |
-| [139]()                                                 | 剑指 Offer 40    | 最小的 k 个数                               | 简单 |                |
-| [140]()                                                 | 剑指 Offer 54    | 二叉搜索树的第 k 大节点                     | 简单 |                |
+| [131](https://www.yuweihung.com/posts/2025/lc-0059/)    | LC0059           | 螺旋矩阵 II                                 | 中等 | 模拟           |
+| [132](https://www.yuweihung.com/posts/2025/lc-0518/)    | LC0518           | 零钱兑换 II                                 | 中等 | 动态规划       |
+| [133](https://www.yuweihung.com/posts/2025/lcr-0143/)   | 剑指 Offer 26    | 树的子结构                                  | 中等 | 二叉树         |
+| [134](https://www.yuweihung.com/posts/2025/lc-0050/)    | LC0050           | Pow(x, n)                                   | 中等 | 快速幂         |
+| [135](https://www.yuweihung.com/posts/2025/lc-0145/)    | LC0145           | 二叉树的后序遍历                            | 中等 | 二叉树         |
+| [136](https://www.yuweihung.com/posts/2025/lc-0075/)    | LC0075           | 颜色分类                                    | 中等 | 双指针         |
+| [137](https://www.yuweihung.com/posts/2025/lc-0572/)    | LC0572           | 另一个树的子树                              | 简单 | 二叉树         |
+| [138](https://www.yuweihung.com/posts/2025/lc-0440/)    | LC0440           | 字典序的第 K 小数字                         | 困难 | 字典树         |
+| [139](https://www.yuweihung.com/posts/2025/lcr-0159/)   | 剑指 Offer 40    | 最小的 k 个数                               | 简单 | 快速选择       |
+| [140](https://www.yuweihung.com/posts/2025/lcr-0174/)   | 剑指 Offer 54    | 二叉搜索树的第 k 大节点                     | 简单 | 二叉树         |
 | [141](https://www.yuweihung.com/posts/2025/lc-0091/)    | LC0091           | 解码方法                                    | 中等 |                |
 | [142]()                                                 | 剑指 Offer 42    | 连续子数组的最大和                          | 简单 |                |
 | [143](https://www.yuweihung.com/posts/2025/lc-0442/)    | LC0442           | 数组中重复的数据                            | 中等 |                |
