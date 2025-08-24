@@ -4,7 +4,7 @@ date: 2025-07-02T23:56:07+08:00
 draft: false
 slug: "lc-0041"
 categories: ["高频面试题"]
-tags: ["思维题"]
+tags: ["原地哈希"]
 ---
 
 LeetCode 41

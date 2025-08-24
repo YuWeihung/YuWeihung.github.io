@@ -68,7 +68,7 @@ LeetCode 高频面试题汇总。
 | [53](https://www.yuweihung.com/posts/2025/lc-0322/)     | LC0322           | 零钱兑换                                    | 中等 | 动态规划       |
 | [54](https://www.yuweihung.com/posts/2025/lc-0043/)     | LC0043           | 字符串相乘                                  | 中等 | 模拟           |
 | [55](https://www.yuweihung.com/posts/2025/lc-0076/)     | LC0076           | 最小覆盖子串                                | 困难 | 滑动窗口       |
-| [56](https://www.yuweihung.com/posts/2025/lc-0041/)     | LC0041           | 缺失的第一个正数                            | 困难 | 思维题         |
+| [56](https://www.yuweihung.com/posts/2025/lc-0041/)     | LC0041           | 缺失的第一个正数                            | 困难 | 原地哈希       |
 | [57](https://www.yuweihung.com/posts/2025/lc-0105/)     | LC0105           | 从前序与中序遍历序列构造二叉树              | 中等 | 二叉树         |
 | [58](https://www.yuweihung.com/posts/2025/lcr-0140/)    | 剑指 Offer 22    | 链表中倒数第 k 个节点                       | 简单 | 链表           |
 | [59](https://www.yuweihung.com/posts/2025/lc-0151/)     | LC0151           | 翻转字符串里的单词                          | 中等 | 字符串         |
@@ -153,16 +153,16 @@ LeetCode 高频面试题汇总。
 | [138](https://www.yuweihung.com/posts/2025/lc-0440/)    | LC0440           | 字典序的第 K 小数字                         | 困难 | 字典树         |
 | [139](https://www.yuweihung.com/posts/2025/lcr-0159/)   | 剑指 Offer 40    | 最小的 k 个数                               | 简单 | 快速选择       |
 | [140](https://www.yuweihung.com/posts/2025/lcr-0174/)   | 剑指 Offer 54    | 二叉搜索树的第 k 大节点                     | 简单 | 二叉树         |
-| [141](https://www.yuweihung.com/posts/2025/lc-0091/)    | LC0091           | 解码方法                                    | 中等 |                |
-| [142]()                                                 | 剑指 Offer 42    | 连续子数组的最大和                          | 简单 |                |
-| [143](https://www.yuweihung.com/posts/2025/lc-0442/)    | LC0442           | 数组中重复的数据                            | 中等 |                |
-| [144](https://www.yuweihung.com/posts/2025/lc-0329/)    | LC0329           | 矩阵中的最长递增路径                        | 困难 |                |
-| [145](https://www.yuweihung.com/posts/2025/lc-0450/)    | LC0450           | 删除二叉搜索树中的节点                      | 中等 |                |
-| [146](https://www.yuweihung.com/posts/2025/lc-0135/)    | LC0135           | 分发糖果                                    | 困难 |                |
-| [147](https://www.yuweihung.com/posts/2025/lc-0125/)    | LC0125           | 验证回文串                                  | 简单 |                |
-| [148]()                                                 | 剑指 Offer 10-II | 青蛙跳台阶问题                              | 简单 |                |
-| [149](https://www.yuweihung.com/posts/2025/lc-0010/)    | LC0010           | 正则表达式匹配                              | 困难 |                |
-| [150](https://www.yuweihung.com/posts/2025/lc-0445/)    | LC0445           | 两数相加 II                                 | 中等 |                |
+| [141](https://www.yuweihung.com/posts/2025/lc-0091/)    | LC0091           | 解码方法                                    | 中等 | 动态规划       |
+| [142](https://www.yuweihung.com/posts/2025/lcr-0161/)   | 剑指 Offer 42    | 连续子数组的最大和                          | 简单 | 动态规划       |
+| [143](https://www.yuweihung.com/posts/2025/lc-0442/)    | LC0442           | 数组中重复的数据                            | 中等 | 原地哈希       |
+| [144](https://www.yuweihung.com/posts/2025/lc-0329/)    | LC0329           | 矩阵中的最长递增路径                        | 困难 | 记忆化搜索     |
+| [145](https://www.yuweihung.com/posts/2025/lc-0450/)    | LC0450           | 删除二叉搜索树中的节点                      | 中等 | 二叉树         |
+| [146](https://www.yuweihung.com/posts/2025/lc-0135/)    | LC0135           | 分发糖果                                    | 困难 | 贪心           |
+| [147](https://www.yuweihung.com/posts/2025/lc-0125/)    | LC0125           | 验证回文串                                  | 简单 | 字符串         |
+| [148](https://www.yuweihung.com/posts/2025/lcr-0127/)   | 剑指 Offer 10-II | 青蛙跳台阶问题                              | 简单 | 动态规划       |
+| [149](https://www.yuweihung.com/posts/2025/lc-0010/)    | LC0010           | 正则表达式匹配                              | 困难 | 动态规划       |
+| [150](https://www.yuweihung.com/posts/2025/lc-0445/)    | LC0445           | 两数相加 II                                 | 中等 | 链表           |
 | [151](https://www.yuweihung.com/posts/2025/lc-0045/)    | LC0045           | 跳跃游戏 II                                 | 中等 |                |
 | [152]()                                                 | 剑指 Offer 04    | 二维数组中的查找                            | 简单 |                |
 | [153]()                                                 | 剑指 Offer 10-I  | 斐波那契数列                                | 简单 |                |
