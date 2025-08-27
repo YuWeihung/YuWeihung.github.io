@@ -26,22 +26,16 @@ https://www.nowcoder.com/practice/16409dd00ab24a408ddd0c46e49ddcf8?tpId=196&tqId
 ```cpp
 class Solution {
 public:
-    int circlePath(int n) {
-        const int MOD = 1000000007;
-        vector<int> curr(10, 0);
-        curr[0] = 1;
-
+    int circle(int n) {
+        const int MOD = 1e9 + 7;
+        vector f(n + 1, vector<int>(10, 0));
+        f[0][0] = 1;
         for (int i = 0; i < n; i++) {
-            vector<int> next(10, 0);
             for (int j = 0; j < 10; j++) {
-                int left = (j - 1 + 10) % 10;
-                int right = (j + 1) % 10;
-                next[j] = (curr[left] + curr[right]) % MOD;
+                f[i + 1][j] = (f[i][(j - 1 + 10) % 10] + f[i][(j + 1) % 10]) % MOD;
             }
-            curr = next;
         }
-
-        return curr[0];
+        return f[n][0];
     }
 };
 ```
