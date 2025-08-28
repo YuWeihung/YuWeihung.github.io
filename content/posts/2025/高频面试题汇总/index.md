@@ -163,16 +163,16 @@ LeetCode 高频面试题汇总。
 | [148](https://www.yuweihung.com/posts/2025/lcr-0127/)   | 剑指 Offer 10-II | 青蛙跳台阶问题                              | 简单 | 动态规划       |
 | [149](https://www.yuweihung.com/posts/2025/lc-0010/)    | LC0010           | 正则表达式匹配                              | 困难 | 动态规划       |
 | [150](https://www.yuweihung.com/posts/2025/lc-0445/)    | LC0445           | 两数相加 II                                 | 中等 | 链表           |
-| [151](https://www.yuweihung.com/posts/2025/lc-0045/)    | LC0045           | 跳跃游戏 II                                 | 中等 |                |
-| [152]()                                                 | 剑指 Offer 04    | 二维数组中的查找                            | 简单 |                |
-| [153]()                                                 | 剑指 Offer 10-I  | 斐波那契数列                                | 简单 |                |
+| [151](https://www.yuweihung.com/posts/2025/lc-0045/)    | LC0045           | 跳跃游戏 II                                 | 中等 | 贪心           |
+| [152](https://www.yuweihung.com/posts/2025/lcr-0121/)   | 剑指 Offer 04    | 二维数组中的查找                            | 简单 | 双指针         |
+| [153](https://www.yuweihung.com/posts/2025/lcr-0126/)   | 剑指 Offer 10-I  | 斐波那契数列                                | 简单 | 动态规划       |
 | [154](https://www.yuweihung.com/posts/2025/nc-0311/)    | 补充题 2         | 圆环回原点问题                              | 中等 | 动态规划       |
-| [155](https://www.yuweihung.com/posts/2025/lc-0328/)    | LC0328           | 奇偶链表                                    | 中等 |                |
-| [156](https://www.yuweihung.com/posts/2025/lc-0347/)    | LC0347           | 前 K 个高频元素                             | 中等 |                |
-| [157](https://www.yuweihung.com/posts/2025/lc-0208/)    | LC0208           | 实现 Trie (前缀树)                          | 中等 |                |
-| [158](https://www.yuweihung.com/posts/2025/lc-0230/)    | LC0230           | 二叉搜索树中第 K 小的元素                   | 中等 |                |
-| [159](https://www.yuweihung.com/posts/2025/lc-0295/)    | LC0295           | 数据流的中位数                              | 困难 |                |
-| [160](https://www.yuweihung.com/posts/2025/lc-0096/)    | LC0096           | 不同的二叉搜索树                            | 中等 |                |
+| [155](https://www.yuweihung.com/posts/2025/lc-0328/)    | LC0328           | 奇偶链表                                    | 中等 | 链表           |
+| [156](https://www.yuweihung.com/posts/2025/lc-0347/)    | LC0347           | 前 K 个高频元素                             | 中等 | 桶排序         |
+| [157](https://www.yuweihung.com/posts/2025/lc-0208/)    | LC0208           | 实现 Trie (前缀树)                          | 中等 | 前缀树         |
+| [158](https://www.yuweihung.com/posts/2025/lc-0230/)    | LC0230           | 二叉搜索树中第 K 小的元素                   | 中等 | 二叉树         |
+| [159](https://www.yuweihung.com/posts/2025/lc-0295/)    | LC0295           | 数据流的中位数                              | 困难 | 堆             |
+| [160](https://www.yuweihung.com/posts/2025/lc-0096/)    | LC0096           | 不同的二叉搜索树                            | 中等 | 数学           |
 | [161](https://www.yuweihung.com/posts/2025/lc-0225/)    | LC0225           | 用队列实现栈                                | 简单 |                |
 | [162](https://www.yuweihung.com/posts/2025/lc-0106/)    | LC0106           | 从中序与后序遍历序列构造二叉树              | 中等 |                |
 | [163]()                                                 | 剑指 Offer 62    | 圆圈中最后剩下的数字                        | 简单 |                |
