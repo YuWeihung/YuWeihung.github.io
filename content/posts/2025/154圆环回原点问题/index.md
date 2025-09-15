@@ -9,7 +9,7 @@ tags: ["动态规划"]
 
 NowCoder 311
 
-https://www.nowcoder.com/practice/16409dd00ab24a408ddd0c46e49ddcf8?tpId=196&tqId=40267&rp=1&sourceUrl=%2Fexam%2Foj%3FtopicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=%E5%9C%86%E7%8E%AF
+https://www.nowcoder.com/practice/16409dd00ab24a408ddd0c46e49ddcf8
 
 难度：中等
 

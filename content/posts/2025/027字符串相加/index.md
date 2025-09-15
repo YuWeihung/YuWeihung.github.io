@@ -4,7 +4,7 @@ date: 2025-06-29T21:06:34+08:00
 draft: false
 slug: "lc-0415"
 categories: ["高频面试题"]
-tags: ["模拟", "高精度计算"]
+tags: ["模拟", "字符串"]
 ---
 
 LeetCode 415
@@ -27,35 +27,18 @@ https://leetcode.cn/problems/add-strings/description/
 class Solution {
 public:
     string addStrings(string num1, string num2) {
-        int m = num1.size(), n = num2.size();
-        int i = m - 1, j = n - 1;
-        int carry = 0;
-        string ans;
-        while (i >= 0 && j >= 0) {
-            int d = num1[i] - '0' + num2[j] - '0' + carry;
-            carry = d / 10;
-            d %= 10;
-            ans.push_back(d + '0');
-            i--;
-            j--;
+        int i = num1.length() - 1, j = num2.length() - 1, add = 0;
+        string ans = "";
+        while (i >= 0 || j >= 0 || add != 0) {
+            int x = i >= 0 ? num1[i] - '0' : 0;
+            int y = j >= 0 ? num2[j] - '0' : 0;
+            int result = x + y + add;
+            ans.push_back('0' + result % 10);
+            add = result / 10;
+            i -= 1;
+            j -= 1;
         }
-        while (i >= 0) {
-            int d = num1[i] - '0' + carry;
-            carry = d / 10;
-            d %= 10;
-            ans.push_back(d + '0');
-            i--;
-        }
-        while (j >= 0) {
-            int d = num2[j] - '0' + carry;
-            carry = d / 10;
-            d %= 10;
-            ans.push_back(d + '0');
-            j--;
-        }
-        if (carry) {
-            ans.push_back('1');
-        }
+        // 计算完以后的答案需要翻转过来
         reverse(ans.begin(), ans.end());
         return ans;
     }

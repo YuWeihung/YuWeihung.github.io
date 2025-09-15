@@ -166,7 +166,7 @@ LeetCode 高频面试题汇总。
 | [151](https://www.yuweihung.com/posts/2025/lc-0045/)    | LC0045           | 跳跃游戏 II                                 | 中等 | 贪心           |
 | [152](https://www.yuweihung.com/posts/2025/lcr-0121/)   | 剑指 Offer 04    | 二维数组中的查找                            | 简单 | 双指针         |
 | [153](https://www.yuweihung.com/posts/2025/lcr-0126/)   | 剑指 Offer 10-I  | 斐波那契数列                                | 简单 | 动态规划       |
-| [154](https://www.yuweihung.com/posts/2025/nc-0311/)    | 补充题 2         | 圆环回原点问题                              | 中等 | 动态规划       |
+| [154](https://www.yuweihung.com/posts/2025/nc-0311/)    | 牛客 311         | 圆环回原点问题                              | 中等 | 动态规划       |
 | [155](https://www.yuweihung.com/posts/2025/lc-0328/)    | LC0328           | 奇偶链表                                    | 中等 | 链表           |
 | [156](https://www.yuweihung.com/posts/2025/lc-0347/)    | LC0347           | 前 K 个高频元素                             | 中等 | 桶排序         |
 | [157](https://www.yuweihung.com/posts/2025/lc-0208/)    | LC0208           | 实现 Trie (前缀树)                          | 中等 | 前缀树         |
