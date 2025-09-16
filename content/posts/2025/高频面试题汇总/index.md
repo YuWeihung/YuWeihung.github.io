@@ -173,43 +173,43 @@ LeetCode 高频面试题汇总。
 | [158](https://www.yuweihung.com/posts/2025/lc-0230/)    | LC0230           | 二叉搜索树中第 K 小的元素                   | 中等 | 二叉树         |
 | [159](https://www.yuweihung.com/posts/2025/lc-0295/)    | LC0295           | 数据流的中位数                              | 困难 | 堆             |
 | [160](https://www.yuweihung.com/posts/2025/lc-0096/)    | LC0096           | 不同的二叉搜索树                            | 中等 | 数学           |
-| [161](https://www.yuweihung.com/posts/2025/lc-0225/)    | LC0225           | 用队列实现栈                                | 简单 |                |
-| [162](https://www.yuweihung.com/posts/2025/lc-0106/)    | LC0106           | 从中序与后序遍历序列构造二叉树              | 中等 |                |
-| [163]()                                                 | 剑指 Offer 62    | 圆圈中最后剩下的数字                        | 简单 |                |
-| [164](https://www.yuweihung.com/posts/2025/lc-0213/)    | LC0213           | 打家劫舍 II                                 | 中等 |                |
-| [165](https://www.yuweihung.com/posts/2025/lc-0516/)    | LC0516           | 最长回文子序列                              | 中等 |                |
-| [166](https://www.yuweihung.com/posts/2025/lc-0189/)    | LC0189           | 轮转数组                                    | 中等 |                |
-| [167](https://www.yuweihung.com/posts/2025/lc-0287/)    | LC0287           | 寻找重复数                                  | 中等 |                |
-| [168]()                                                 | 剑指 Offer 21    | 调整数组顺序使奇数位于偶数前面              | 简单 |                |
-| [169](https://www.yuweihung.com/posts/2025/lc-0678/)    | LC0678           | 有效的括号字符串                            | 中等 |                |
-| [170](https://www.yuweihung.com/posts/2025/lc-0120/)    | LC0120           | 三角形最小路径和                            | 中等 |                |
-| [171](https://www.yuweihung.com/posts/2025/lc-0887/)    | LC0887           | 鸡蛋掉落                                    | 困难 |                |
-| [172](https://www.yuweihung.com/posts/2025/lc-0009/)    | LC0009           | 回文数                                      | 简单 |                |
-| [173](https://www.yuweihung.com/posts/2025/lc-0384/)    | LC0384           | 打乱数组                                    | 中等 |                |
-| [174](https://www.yuweihung.com/posts/2025/lc-0085/)    | LC0085           | 最大矩形                                    | 困难 |                |
-| [175](https://www.yuweihung.com/posts/2025/lc-0044/)    | LC0044           | 通配符匹配                                  | 困难 |                |
-| [176](https://www.yuweihung.com/posts/2025/lc-0611/)    | LC0611           | 有效三角形的个数                            | 中等 |                |
-| [177](https://www.yuweihung.com/posts/2025/lc-0210/)    | LC0210           | 课程表 II                                   | 中等 |                |
-| [178](https://www.yuweihung.com/posts/2025/lc-067/)     | LC0067           | 24 点游戏                                   | 困难 |                |
-| [179](https://www.yuweihung.com/posts/2025/lc-0400/)    | LC0400           | 第 N 个数字                                 | 中等 |                |
-| [180](https://www.yuweihung.com/posts/2025/lc-0134/)    | LC0134           | 加油站                                      | 中等 |                |
-| [181]()                                                 | 补充题 9         | 36 进制加法                                 | 中等 |                |
-| [182]()                                                 | 剑指 Offer 29    | 顺时针打印矩阵                              | 简单 |                |
-| [183]()                                                 | 剑指 Offer 27    | 二叉树的镜像                                | 简单 |                |
-| [184](https://www.yuweihung.com/posts/2025/lc-0264/)    | LC0264           | 丑数 II                                     | 中等 |                |
-| [185](https://www.yuweihung.com/posts/2025/lc-0395/)    | LC0395           | 至少有 K 个重复字符的最长子串               | 中等 |                |
-| [186](https://www.yuweihung.com/posts/2025/lc-0084/)    | LC0084           | 柱状图中最大的矩形                          | 困难 |                |
-| [187](https://www.yuweihung.com/posts/2025/lc-0097/)    | LC0097           | 交错字符串                                  | 中等 |                |
-| [188](https://www.yuweihung.com/posts/2025/lc-0253/)    | LC0253           | 会议室 II                                   | 中等 |                |
-| [189]()                                                 | 剑指 Offer 39    | 数组中出现次数超过一半的数字                | 简单 |                |
-| [190](https://www.yuweihung.com/posts/2025/lc-1004/)    | LC1004           | 最大连续 1 的个数 III                       | 中等 |                |
-| [191]()                                                 | 补充题 14        | 阿拉伯数字转中文数字                        | 中等 |                |
-| [192](https://www.yuweihung.com/posts/2025/lc-0316/)    | LC0316           | 去除重复字母                                | 中等 |                |
-| [193](https://www.yuweihung.com/posts/2025/lc-0349/)    | LC0349           | 两个数组的交集                              | 简单 |                |
-| [194](https://www.yuweihung.com/posts/2025/lc-0051/)    | LC0051           | N 皇后                                      | 困难 |                |
-| [195](https://www.yuweihung.com/posts/2025/lc-0673/)    | LC0673           | 最长递增子序列的个数                        | 中等 |                |
-| [196]()                                                 | 面试题 02.05     | 链表求和                                    | 中等 |                |
-| [197](https://www.yuweihung.com/posts/2025/lc-0071/)    | LC0071           | 简化路径                                    | 中等 |                |
-| [198](https://www.yuweihung.com/posts/2025/lc-0344/)    | LC0344           | 反转字符串                                  | 简单 |                |
-| [199](https://www.yuweihung.com/posts/2025/lc-0416/)    | LC0416           | 分割等和子集                                | 中等 |                |
-| [200](https://www.yuweihung.com/posts/2025/lc-0443/)    | LC0443           | 压缩字符串                                  | 中等 |                |
+| [161](https://www.yuweihung.com/posts/2025/lc-0225/)    | LC0225           | 用队列实现栈                                | 简单 | 栈             |
+| [162](https://www.yuweihung.com/posts/2025/lc-0106/)    | LC0106           | 从中序与后序遍历序列构造二叉树              | 中等 | 二叉树         |
+| [163](https://www.yuweihung.com/posts/2025/lcr-0187/)   | 剑指 Offer 62    | 圆圈中最后剩下的数字                        | 简单 | 动态规划       |
+| [164](https://www.yuweihung.com/posts/2025/lc-0213/)    | LC0213           | 打家劫舍 II                                 | 中等 | 动态规划       |
+| [165](https://www.yuweihung.com/posts/2025/lc-0516/)    | LC0516           | 最长回文子序列                              | 中等 | 动态规划       |
+| [166](https://www.yuweihung.com/posts/2025/lc-0189/)    | LC0189           | 轮转数组                                    | 中等 | 双指针         |
+| [167](https://www.yuweihung.com/posts/2025/lc-0287/)    | LC0287           | 寻找重复数                                  | 中等 | 双指针         |
+| [168](https://www.yuweihung.com/posts/2025/lcr-0139/)   | 剑指 Offer 21    | 调整数组顺序使奇数位于偶数前面              | 简单 | 双指针         |
+| [169](https://www.yuweihung.com/posts/2025/lc-0678/)    | LC0678           | 有效的括号字符串                            | 中等 | 栈             |
+| [170](https://www.yuweihung.com/posts/2025/lc-0120/)    | LC0120           | 三角形最小路径和                            | 中等 | 动态规划       |
+| [171](https://www.yuweihung.com/posts/2025/lc-0887/)    | LC0887           | 鸡蛋掉落                                    | 困难 | 动态规划       |
+| [172](https://www.yuweihung.com/posts/2025/lc-0009/)    | LC0009           | 回文数                                      | 简单 | 数学           |
+| [173](https://www.yuweihung.com/posts/2025/lc-0384/)    | LC0384           | 打乱数组                                    | 中等 | 洗牌算法       |
+| [174](https://www.yuweihung.com/posts/2025/lc-0085/)    | LC0085           | 最大矩形                                    | 困难 | 单调栈         |
+| [175](https://www.yuweihung.com/posts/2025/lc-0044/)    | LC0044           | 通配符匹配                                  | 困难 | 动态规划       |
+| [176](https://www.yuweihung.com/posts/2025/lc-0611/)    | LC0611           | 有效三角形的个数                            | 中等 | 双指针         |
+| [177](https://www.yuweihung.com/posts/2025/lc-0210/)    | LC0210           | 课程表 II                                   | 中等 | 拓扑排序       |
+| [178](https://www.yuweihung.com/posts/2025/lc-067/)     | LC0067           | 24 点游戏                                   | 困难 | 回溯           |
+| [179](https://www.yuweihung.com/posts/2025/lc-0400/)    | LC0400           | 第 N 个数字                                 | 中等 | 数学           |
+| [180](https://www.yuweihung.com/posts/2025/lc-0134/)    | LC0134           | 加油站                                      | 中等 | 贪心           |
+| [181](https://www.yuweihung.com/posts/2025//)           | 补充题 9         | 36 进制加法                                 | 中等 | 模拟           |
+| [182](https://www.yuweihung.com/posts/2025//)           | 剑指 Offer 29    | 顺时针打印矩阵                              | 简单 | 模拟           |
+| [183](https://www.yuweihung.com/posts/2025//)           | 剑指 Offer 27    | 二叉树的镜像                                | 简单 | 二叉树         |
+| [184](https://www.yuweihung.com/posts/2025/lc-0264/)    | LC0264           | 丑数 II 动态规划                            | 中等 |                |
+| [185](https://www.yuweihung.com/posts/2025/lc-0395/)    | LC0395           | 至少有 K 个重复字符的最长子串               | 中等 | 滑动窗口       |
+| [186](https://www.yuweihung.com/posts/2025/lc-0084/)    | LC0084           | 柱状图中最大的矩形                          | 困难 | 单调栈         |
+| [187](https://www.yuweihung.com/posts/2025/lc-0097/)    | LC0097           | 交错字符串                                  | 中等 | 动态规划       |
+| [188](https://www.yuweihung.com/posts/2025/lc-0253/)    | LC0253           | 会议室 II                                   | 中等 | 差分           |
+| [189](https://www.yuweihung.com/posts/2025//)           | 剑指 Offer 39    | 数组中出现次数超过一半的数字                | 简单 | 摩尔投票法     |
+| [190](https://www.yuweihung.com/posts/2025/lc-1004/)    | LC1004           | 最大连续 1 的个数 III                       | 中等 | 滑动窗口       |
+| [191](https://www.yuweihung.com/posts/2025//)           | 补充题 14        | 阿拉伯数字转中文数字                        | 中等 | 字符串         |
+| [192](https://www.yuweihung.com/posts/2025/lc-0316/)    | LC0316           | 去除重复字母                                | 中等 | 单调栈         |
+| [193](https://www.yuweihung.com/posts/2025/lc-0349/)    | LC0349           | 两个数组的交集                              | 简单 | 哈希表         |
+| [194](https://www.yuweihung.com/posts/2025/lc-0051/)    | LC0051           | N 皇后                                      | 困难 | 回溯           |
+| [195](https://www.yuweihung.com/posts/2025/lc-0673/)    | LC0673           | 最长递增子序列的个数                        | 中等 | 动态规划       |
+| [196](https://www.yuweihung.com/posts/2025//)           | 面试题 02.05     | 链表求和                                    | 中等 | 链表           |
+| [197](https://www.yuweihung.com/posts/2025/lc-0071/)    | LC0071           | 简化路径                                    | 中等 | 栈             |
+| [198](https://www.yuweihung.com/posts/2025/lc-0344/)    | LC0344           | 反转字符串                                  | 简单 | 双指针         |
+| [199](https://www.yuweihung.com/posts/2025/lc-0416/)    | LC0416           | 分割等和子集                                | 中等 | 动态规划       |
+| [200](https://www.yuweihung.com/posts/2025/lc-0443/)    | LC0443           | 压缩字符串                                  | 中等 | 双指针         |

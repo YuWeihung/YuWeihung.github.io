@@ -4,7 +4,7 @@ date: 2025-07-15T19:03:18+08:00
 draft: false
 slug: "lc-0134"
 categories: ["高频面试题"]
-tags: ["贪心", ""]
+tags: ["贪心"]
 ---
 
 LeetCode 134
