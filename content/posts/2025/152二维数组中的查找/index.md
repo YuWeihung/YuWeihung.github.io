@@ -1,10 +1,10 @@
 ---
-title: "152二维数组中的查找"
+title: "152：二维数组中的查找"
 date: 2025-07-15T19:02:22+08:00
 draft: false
 slug: "lcr-0121"
 categories: ["高频面试题"]
-tags: ["", ""]
+tags: ["双指针", "矩阵"]
 ---
 
 LCR 121
