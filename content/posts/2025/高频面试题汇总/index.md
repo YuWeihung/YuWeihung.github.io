@@ -196,7 +196,7 @@ LeetCode 高频面试题汇总。
 | [181](https://www.yuweihung.com/posts/2025//)           | 补充题 9         | 36 进制加法                                 | 中等 | 模拟           |
 | [182](https://www.yuweihung.com/posts/2025//)           | 剑指 Offer 29    | 顺时针打印矩阵                              | 简单 | 模拟           |
 | [183](https://www.yuweihung.com/posts/2025//)           | 剑指 Offer 27    | 二叉树的镜像                                | 简单 | 二叉树         |
-| [184](https://www.yuweihung.com/posts/2025/lc-0264/)    | LC0264           | 丑数 II 动态规划                            | 中等 |                |
+| [184](https://www.yuweihung.com/posts/2025/lc-0264/)    | LC0264           | 丑数 II                                     | 中等 | 动态规划       |
 | [185](https://www.yuweihung.com/posts/2025/lc-0395/)    | LC0395           | 至少有 K 个重复字符的最长子串               | 中等 | 滑动窗口       |
 | [186](https://www.yuweihung.com/posts/2025/lc-0084/)    | LC0084           | 柱状图中最大的矩形                          | 困难 | 单调栈         |
 | [187](https://www.yuweihung.com/posts/2025/lc-0097/)    | LC0097           | 交错字符串                                  | 中等 | 动态规划       |
